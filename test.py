@@ -4,7 +4,7 @@ import os
 import codecs
 import chardet
 
-db_dir = '/home/aleksas/labs/wavenet_vocoder/db/Garsynas/D150'
+db_dir = '/home/aleksas/labs/wavenet_vocoder/db/Garsynas'
 meta = [
     '_nurijimas', '_pilvas', '_pauze', '_tyla',
     '_ikvepimas', '_iskvepimas', '_garsas',

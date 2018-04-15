@@ -3,6 +3,8 @@ from functools import partial
 import numpy as np
 import os
 import audio
+import codecs
+import chardet
 
 from nnmnkwii import preprocessing as P
 from hparams import hparams
@@ -13,19 +15,59 @@ from wavenet_vocoder.util import is_mulaw_quantize, is_mulaw, is_raw
 
 from hparams import hparams
 
+meta = [
+    '_nurijimas', '_pilvas', '_pauze', '_tyla',
+    '_ikvepimas', '_iskvepimas', '_garsas',
+    '_puslapis', '_puslpais', '_kede', '_durys',
+    '_cepsejimas'
+]
+meta_m = [
+    ('septyni_ty', 'septyni'), ('aštuoni_tuo', 'aštuoni'), ('devyni_vy$
+    ('pirma_pir', 'pirma'), ('antra_an', 'antra'), ('trečia_tre', 'tre$
+    ('ketvirta_vir', 'ketvirta'), ('penkta_pen', 'penkta'), ('šešta_še$
+    ('septinta_tin', 'septinta'), ('aštunta_tun', 'aštunta'), ('devint$
+    ('dešimta_ši', 'dešimta'), ('procentų_cen', 'procentų'), ('vadinam$
+    ('aplankų_ap', 'aplankų'), ('veiklų_veik', 'veiklų'), ('_įtrūkimu'$
+    ('sugriauta_ta', 'sugriauta'), ('laikomi_mi', 'laikomi'), ('siauro$
+    ('_padpadėtis', 'padpadėtis'), ('_klėstinčiu', 'klėstinčiu'), ('la$
+    ('eštuoni_tuo', 'aštuoni'), ('architektūra_tū', 'architektūra'), ($
+    ('ketvyrta_vyr', 'ketvyrta'), ('_koplystulpiai', 'koplystulpiai')
+]
 
 def build_from_path(in_dir, out_dir, num_workers=1, tqdm=lambda x: x):
+    global meta, meta_m, speaker
+
     executor = ProcessPoolExecutor(max_workers=num_workers)
     futures = []
     index = 1
-    with open(os.path.join(in_dir, 'metadata.csv'), encoding='utf-8') as f:
-        for line in f:
-            parts = line.strip().split('|')
-            wav_path = os.path.join(in_dir, 'wavs', '%s.wav' % parts[0])
-            text = parts[2]
-            futures.append(executor.submit(
-                partial(_process_utterance, out_dir, index, wav_path, text)))
-            index += 1
+
+    for root, dirs, files in os.walk(db_dir):
+        path = root.split(os.sep)
+
+        for file in files:
+            if file.endswith( '.wav' ):
+                tr_file = file.replace('.wav','.txt')
+                tr_path = os.path.join(root, tr_file)
+                wav_path = os.path.join(root, file)
+
+                rawdata = open(tr_path, 'rb').read()
+                result = chardet.detect(rawdata)
+                charenc = result['encoding']
+
+                if charenc == 'UTF-16':
+                    charenc = "utf-16le"
+                elif charenc == 'ISO-8859-1':
+                    charenc = 'windows-1257'
+
+                with codecs.open(tr_path, encoding=charenc) as fin:
+                    text = fin.read()
+                    for m in meta:
+                        text = text.replace(m, '')
+                    for mm_p, mm_r in meta_m:
+                        text = text.replace(mm_p, mm_r)
+                    futures.append(executor.submit(
+                        partial(_process_utterance, out_dir, index, wav_path, text)))
+                index += 1
     return [future.result() for future in tqdm(futures)]
 
 
