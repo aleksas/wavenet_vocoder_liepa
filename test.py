@@ -2,10 +2,9 @@
 
 import os
 import codecs
+import chardet
 
-db_dir = '/home/aleksas/db/MII/LIEPA'
-audio_subdir = 'Garsynas'
-transcript_subdir = 'Anotacijos_UNICODE'
+db_dir = '/home/aleksas/labs/wavenet_vocoder/db/Garsynas/D150'
 meta = [
     '_nurijimas', '_pilvas', '_pauze', '_tyla',
     '_ikvepimas', '_iskvepimas', '_garsas',
@@ -26,31 +25,39 @@ meta_m = [
 ]
 
 def test_dir(db_dir):
-    global audio_subdir, unicode_transcript_subdir, meta
+    global meta, meta_m, speaker
 
-    wav_dir = '%s/%s' % (db_dir, audio_subdir)
-    transcript_dir = '%s/%s' % (db_dir, transcript_subdir)
-
-    for root, dirs, files in os.walk(wav_dir):
+    for root, dirs, files in os.walk(db_dir):
         path = root.split(os.sep)
-        #print((len(path) - 1) * '---', os.path.basename(root))
+        print((len(path) - 1) * '---', os.path.basename(root))
+        print(root)
         for file in files:
-            if file.endswith( ('.wav','.WAV') ):
-                tr_path = '%s/%s' % (transcript_dir, file.replace('.wav', '.txt'))
+            if file.endswith( '.wav' ):
+                tr_file = file.replace('.wav','.txt')
+                tr_path = os.path.join(root, tr_file)
                 #print(len(path) * '---', file)
                 #print (tr_path)
 
-                with codecs.open(tr_path, encoding="utf-16le") as fin:
+                rawdata = open(tr_path, 'rb').read()
+                result = chardet.detect(rawdata)
+                charenc = result['encoding']
+                
+                if charenc == 'UTF-16':
+                    charenc = "utf-16le"
+                elif charenc == 'ISO-8859-1':
+                    charenc = 'windows-1257'
+
+                with codecs.open(tr_path, encoding=charenc) as fin:
                     content = fin.read()
                     for m in meta:
                         content = content.replace(m, '')
                     for mm_p, mm_r in meta_m:
                         content = content.replace(mm_p, mm_r)
-                    if '_' in content:
+
+                    if '-' in content or '-' in content:
                         print (content)
-                        print (tr_path)
-                        print ()
-                break
+                    print (content)
+                    print()
 
 if __name__ == '__main__':
     test_dir( db_dir )
