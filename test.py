@@ -53,11 +53,13 @@ def test_dir(db_dir):
                         content = content.replace(m, '')
                     for mm_p, mm_r in meta_m:
                         content = content.replace(mm_p, mm_r)
+                    #content = content.replace('\r', '')
+                    #content = content.replace('\n', ' ')
 
-                    if '-' in content or '-' in content:
+                    if '-' in content or '-' in content or '\n' in content:
                         print (content)
-                    print (content)
-                    print()
+                    
+                        print()
 
 if __name__ == '__main__':
     test_dir( db_dir )

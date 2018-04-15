@@ -22,17 +22,18 @@ meta = [
     '_cepsejimas'
 ]
 meta_m = [
-    ('septyni_ty', 'septyni'), ('aštuoni_tuo', 'aštuoni'), ('devyni_vy$
-    ('pirma_pir', 'pirma'), ('antra_an', 'antra'), ('trečia_tre', 'tre$
-    ('ketvirta_vir', 'ketvirta'), ('penkta_pen', 'penkta'), ('šešta_še$
-    ('septinta_tin', 'septinta'), ('aštunta_tun', 'aštunta'), ('devint$
-    ('dešimta_ši', 'dešimta'), ('procentų_cen', 'procentų'), ('vadinam$
-    ('aplankų_ap', 'aplankų'), ('veiklų_veik', 'veiklų'), ('_įtrūkimu'$
-    ('sugriauta_ta', 'sugriauta'), ('laikomi_mi', 'laikomi'), ('siauro$
-    ('_padpadėtis', 'padpadėtis'), ('_klėstinčiu', 'klėstinčiu'), ('la$
-    ('eštuoni_tuo', 'aštuoni'), ('architektūra_tū', 'architektūra'), ($
+    ('septyni_ty', 'septyni'), ('aštuoni_tuo', 'aštuoni'), ('devyni_vy','devyni'),
+    ('pirma_pir', 'pirma'), ('antra_an', 'antra'), ('trečia_tre', 'trečia'),
+    ('ketvirta_vir', 'ketvirta'), ('penkta_pen', 'penkta'), ('šešta_šeš', 'šešta'),
+    ('septinta_tin', 'septinta'), ('aštunta_tun', 'aštunta'), ('devinta_vin', 'devinta'),
+    ('dešimta_ši', 'dešimta'), ('procentų_cen', 'procentų'), ('vadinamaa_maa','vadinama'),
+    ('aplankų_ap', 'aplankų'), ('veiklų_veik', 'veiklų'), ('_įtrūkimu', 'įtrūkimu'),
+    ('sugriauta_ta', 'sugriauta'), ('laikomi_mi', 'laikomi'), ('siauros_siau', 'siauros'),
+    ('_padpadėtis', 'padpadėtis'), ('_klėstinčiu', 'klėstinčiu'), ('langus_gus', 'langus'),
+    ('eštuoni_tuo', 'aštuoni'), ('architektūra_tū', 'architektūra'), ('rezultatus_ta', 'rezultatus'),
     ('ketvyrta_vyr', 'ketvyrta'), ('_koplystulpiai', 'koplystulpiai')
 ]
+
 
 def build_from_path(in_dir, out_dir, num_workers=1, tqdm=lambda x: x):
     global meta, meta_m, speaker
@@ -41,7 +42,7 @@ def build_from_path(in_dir, out_dir, num_workers=1, tqdm=lambda x: x):
     futures = []
     index = 1
 
-    for root, dirs, files in os.walk(db_dir):
+    for root, dirs, files in os.walk(in_dir):
         path = root.split(os.sep)
 
         for file in files:
@@ -65,6 +66,9 @@ def build_from_path(in_dir, out_dir, num_workers=1, tqdm=lambda x: x):
                         text = text.replace(m, '')
                     for mm_p, mm_r in meta_m:
                         text = text.replace(mm_p, mm_r)
+                    text = text.replace('\r', '')
+                    text = text.replace('\n', ' ')
+
                     futures.append(executor.submit(
                         partial(_process_utterance, out_dir, index, wav_path, text)))
                 index += 1
