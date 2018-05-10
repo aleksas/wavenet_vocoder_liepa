@@ -21,6 +21,9 @@ meta = [
     '_puslapis', '_puslpais', '_kede', '_durys',
     '_cepsejimas'
 ]
+
+meta = ['_pauze']
+
 meta_m = [
     ('septyni_ty', 'septyni'), ('aštuoni_tuo', 'aštuoni'), ('devyni_vy','devyni'),
     ('pirma_pir', 'pirma'), ('antra_an', 'antra'), ('trečia_tre', 'trečia'),
