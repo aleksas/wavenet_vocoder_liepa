@@ -1,8 +1,10 @@
 ## liepa_2008.05.11
 
 ### Environment
+
 - [Docker](docker.md)
 - [Training and Evaluation](training.md)
+
 ### Experiment evaluation results
 
 Speaker 7 utterance 0
