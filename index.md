@@ -5,7 +5,7 @@
 - [Docker](docker.md)
 - [Training and Evaluation](training.md)
 
-### Customisations
+### Customizations
 
 - [presets](experiment/liepa_2008.05.11/presets/liepa_multi.json)
 - [datasets](experiment/liepa_2008.05.11/datasets/liepa.py)
