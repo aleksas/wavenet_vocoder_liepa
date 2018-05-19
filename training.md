@@ -1,6 +1,8 @@
 # Wavenet vocoder training and evaluation
 ## Preprocess
 `python preprocess.py liepa_multi ./db/Garsynas/ ./db/proc/Garsynas --preset=presets/liepa_multi.json`
+
+Resulting [train.txt](experiment/liepa_2008.05.11/db/proc/Garsynas/train.txt) containing list of utterance transcriptions for corresponding speaker.
 ## Train
 `python train.py --data-root=./db/proc/Garsynas --preset=presets/liepa_multi.json`
 ## Evaluate

@@ -1,0 +1,624 @@
+liepa-audio-00001.npy|liepa-mel-00001.npy|171264|﻿restoranas _tyla maitinimo įstaiga _pauze kuri pagal užsakymą gamina ir parduoda maisto patiekalus _pauze skirtus suvalgyti vietoj|1
+liepa-audio-00002.npy|liepa-mel-00002.npy|130816|﻿tačiau kai kurie restoranai gamina maistą išsinešimui _pauze ar turi maisto pristatymo pagal užsakymą paslaugą|1
+liepa-audio-00003.npy|liepa-mel-00003.npy|57088|﻿restoranais taip pat vadinamos stambesnių įmonių dalys|1
+liepa-audio-00004.npy|liepa-mel-00004.npy|162560|﻿pavyzdžiui viešbučio restoranas dažnai yra viešbučio padalinys skirtas viešbučio gyventojams _ikvepimas maitinti ir kartu padidinti viešbučio pajamas|1
+liepa-audio-00005.npy|liepa-mel-00005.npy|132352|﻿vakarų Europoje nuo antikos laikų žinomos užeigos ir tavernos bet jos paprastai _pauze aptarnaudavo keliautojus|1
+liepa-audio-00006.npy|liepa-mel-00006.npy|138496|﻿restoranai kaip maitinimo įmonės kurios gamina svečių užsakytus patiekal _tyla atsirado tik aštuonioliktame amžiuje|1
+liepa-audio-00007.npy|liepa-mel-00007.npy|83200|﻿pagal Gineso rekordų knygą seniausias tebeveikiantis restoranas yra Ispanijoje|1
+liepa-audio-00008.npy|liepa-mel-00008.npy|60160|﻿žodis restoranas atsirado šešioliktame amžiuj|1
+liepa-audio-00009.npy|liepa-mel-00009.npy|51968|﻿tuomet jis reiškė maistą kuris atstato jėgas|1
+liepa-audio-00010.npy|liepa-mel-00010.npy|59648|﻿taip tada vadino tirštą prieskoniais pagardintą sriubą|1
+liepa-audio-00011.npy|liepa-mel-00011.npy|54016|﻿pirmas klasikinis restoranas įkurtas Paryžiuj|1
+liepa-audio-00012.npy|liepa-mel-00012.npy|205056|﻿tokiame restorane lankytojai sėdi prie atskirų stalų gauna patiekalus atskiruose induose maistą renkasi iš valgiaraščių _ikvepimas o restoranas turi nurodytas darbo valandas|1
+liepa-audio-00013.npy|liepa-mel-00013.npy|117504|﻿šio restorano įkūrėjas buo žinomiausias to meto kulinarijos rašytojas ir gastronomijos autoritetas|1
+liepa-audio-00014.npy|liepa-mel-00014.npy|152320|﻿restoranai tapo įprasti po didžiosios Prancūzijos revoliucijos dėl kurios aristokratai buo priversti bėgti _pauze ir paliko be darbo tarnus|1
+liepa-audio-00015.npy|liepa-mel-00015.npy|149760|﻿dauguma tarnų gebėjusių gaminti puikų maistą liko be darbo tuo tarpu į Paryžių atvyko nemažai provincialų neturėjusių kur valgyti|1
+liepa-audio-00016.npy|liepa-mel-00016.npy|77568|﻿restoranai buo patogus problemos sprendimas tiek vieniems tiek kitiems|1
+liepa-audio-00017.npy|liepa-mel-00017.npy|42752|﻿taip gimė Prancūzijos restoranų tradicija|1
+liepa-audio-00018.npy|liepa-mel-00018.npy|46848|﻿restoranai ėmė plisti visame pasaulyje|1
+liepa-audio-00019.npy|liepa-mel-00019.npy|147200|﻿daugelis restoranu patiekalus vis dar teikdavo ant stalo dideliuose induose _ikvepimas iš kur valgytojai įsidėdavo patys|1
+liepa-audio-00020.npy|liepa-mel-00020.npy|39168|﻿tai lankytojus versdavo greičiau valgyti|1
+liepa-audio-00021.npy|liepa-mel-00021.npy|106752|﻿kitas aptarnavimo stilius kai padavėjai atneša lėkštes su patiekalais o valgytojai įsideda patys|1
+liepa-audio-00022.npy|liepa-mel-00022.npy|118016|﻿trečias aptarnavimo stilius kai patiekalai _pauze atnešami valgytojams sudėti _pauze užsakytomis porcijom|1
+liepa-audio-00023.npy|liepa-mel-00023.npy|100608|﻿viduramžių musulmonų pasaulyje restoranai atsirado maždaug tuo pačiu metu kaip _pauze ir Kinijoje|1
+liepa-audio-00024.npy|liepa-mel-00024.npy|132352|﻿restoranai kuriuose lankytojai galėdavo užsisakyti patiekalus pagaminimui jau minimi dešimtojo amžiaus pabaigoje|1
+liepa-audio-00025.npy|liepa-mel-00025.npy|96512|﻿musulmonų Ispanijos restoranuose buo maitinama _pauze patiekiant tris patiekalus|1
+liepa-audio-00026.npy|liepa-mel-00026.npy|227584|﻿buo tvirtinama kad maistą reikia pateikti trimis sykiais _tyla pradžioje sriuba po to _tyla pagrindinis patiekalas ir galop _tyla desertas|1
+liepa-audio-00027.npy|liepa-mel-00027.npy|157440|﻿kulinarinė tradicija _tyla maisto gaminimo tradicijų visuma būdinga tam tikram regionui ar tam tikrai žmonių grupei|1
+liepa-audio-00028.npy|liepa-mel-00028.npy|151296|﻿ji tampa svarbia kultūros ir tapatybės dalimi panašiai kaip ir nacionaliniai rūbai nacionalinė vėliava _pauze ir kiti simboliai|1
+liepa-audio-00029.npy|liepa-mel-00029.npy|68864|﻿pasaulio virtu įvairovė susiformavo dėl kelių priežasčių|1
+liepa-audio-00030.npy|liepa-mel-00030.npy|50944|﻿pirmiausia tai lėmė skirtingos gamtinės sąlygos|1
+liepa-audio-00031.npy|liepa-mel-00031.npy|143616|﻿skirtingose vietose buo prijaukintos skirtingos žemės ūkio kultūros kas nulėmė skirtingus naudojamus maisto produktus|1
+liepa-audio-00032.npy|liepa-mel-00032.npy|93952|﻿skyrėsi ir gaminimo prietaisai _pauze kas lėmė skirtingas maisto apdorojimo tradicijas|1
+liepa-audio-00033.npy|liepa-mel-00033.npy|34048|﻿skyrėsi ir mitybos poreikiai|1
+liepa-audio-00034.npy|liepa-mel-00034.npy|89856|﻿kita priežastis _tyla skirtingos kultūrinės ir religinės sąlygos|1
+liepa-audio-00035.npy|liepa-mel-00035.npy|83712|﻿daugelyje pasaulio kultūrų yra uždrausta kiauliena kitur nevalgomi grybai|1
+liepa-audio-00036.npy|liepa-mel-00036.npy|80128|﻿pasaulio virtuves gali _pauze apibūdinti keletas svarbiausių kriterij|1
+liepa-audio-00037.npy|liepa-mel-00037.npy|131840|﻿tai _pauze naudojami produktai jų apdorojimo principai svarbiausi patiekalai kulinarijos filosofija stalo etiketas|1
+liepa-audio-00038.npy|liepa-mel-00038.npy|104704|﻿nepaisant regioninių skirtumų viso pasaulio žmonės turi gauti gana vienodas maisto medžiagas|1
+liepa-audio-00039.npy|liepa-mel-00039.npy|73216|﻿tik skirtingose tradicijose ši problema išsprendžiama gana skirtingai|1
+liepa-audio-00040.npy|liepa-mel-00040.npy|45824|﻿svarbiausi maisto medžiagų šaltiniai yra šie|1
+liepa-audio-00041.npy|liepa-mel-00041.npy|146688|﻿angliavandenių ir ląstelienos šaltiniai _tyla svarbiausi maisto produktai be kurių neįsivaizduojamas žmogaus gyvenimas|1
+liepa-audio-00042.npy|liepa-mel-00042.npy|37120|﻿jie teikia pagrindinę energiją|1
+liepa-audio-00043.npy|liepa-mel-00043.npy|98048|﻿beveik visose pasaulio kultūrose angliavandenių šaltinis yra augalinės kilmės produktai|1
+liepa-audio-00044.npy|liepa-mel-00044.npy|251648|﻿jų vartojimo įvairovę galima būtų skirstyti į šias grupes _tyla virti sveiki ar smulkinti grūdai kepta ar virta grūdų miltų tešla šakniavaisių produktai miltingi vaisiai|1
+liepa-audio-00045.npy|liepa-mel-00045.npy|104704|﻿tai košės virti ryžiai duona blynai makaronai lakštiniai bulvės bananai ir kita|1
+liepa-audio-00046.npy|liepa-mel-00046.npy|99072|﻿baltymų šaltiniai _tyla antroji pagal svarbumą maisto produktų grupė|1
+liepa-audio-00047.npy|liepa-mel-00047.npy|98560|﻿daugelyje kultūrų ypač svarbu baltymų šaltiniu _pauze tampa gyvulinės kilmės produktai|1
+liepa-audio-00048.npy|liepa-mel-00048.npy|58112|﻿svarbiausios baltyminių produktų grupės yra šios|1
+liepa-audio-00049.npy|liepa-mel-00049.npy|135936|﻿mėsa _tyla jautiena kiauliena paukštiena aviena ožkiena _tyla yra labiausiai paplitusios|1
+liepa-audio-00050.npy|liepa-mel-00050.npy|152320|﻿tačiau lokaliai vartojamos ir retesnė _tyla arkliena šuniena kupranugario kengūros krokodilo banginio mėsa|1
+liepa-audio-00051.npy|liepa-mel-00051.npy|93440|﻿žuvis ir jūros gėrybės prieinamos jūrų upių ežerų pakrančių tautoms|1
+liepa-audio-00052.npy|liepa-mel-00052.npy|218880|﻿pieno produktai _tyla šviežias įvairių naminių gyvulių pienas ir iš jo pagaminti produktai _tyla sviestas grietinė rūgpienis varškė sūris|1
+liepa-audio-00053.npy|liepa-mel-00053.npy|116992|﻿vabzdžiai _tyla daugybė pasaulio virtuvių pripažįsta vabzdžius kaip svarbų mitybos šaltinį|1
+liepa-audio-00054.npy|liepa-mel-00054.npy|92928|﻿viena kulinarinių tradicijų laikanti vabzdžius tabu _pauze yra vakarų virtuvės |1
+liepa-audio-00055.npy|liepa-mel-00055.npy|66304|﻿dažniausiai vartojami maistui vabzdžiai yra svirpliai skruzdėlės|1
+liepa-audio-00056.npy|liepa-mel-00056.npy|97536|﻿ankštiniai _tyla svarbiausias _pauze augalinis baltymų šaltinis |1
+liepa-audio-00057.npy|liepa-mel-00057.npy|84224|﻿bene visiškai pakeičiantis gyvulinius produktus yra soja ir sojos produktai|1
+liepa-audio-00058.npy|liepa-mel-00058.npy|88832|﻿daugelyje kultūrų taip pat vartojami žirniai pupos pupelės žemės riešutai|1
+liepa-audio-00059.npy|liepa-mel-00059.npy|102656|﻿riebalų šaltiniai _tyla būna gyvulinės ir augalinės kilmės|1
+liepa-audio-00060.npy|liepa-mel-00060.npy|184064|﻿augalinės kilmės riebalai _tyla aliejai spaudžiami iš rapsų alyvougių saulėgrąžų sezamų aliejinių palmių sėmenų kanapių|1
+liepa-audio-00061.npy|liepa-mel-00061.npy|70400|﻿iš gyvūnų gaunami taukai taip pat iš pieno gaminamas sviestas|1
+liepa-audio-00062.npy|liepa-mel-00062.npy|121088|﻿vitaminų ir mineralinių medžiagų šaltiniai _tyla būtini visose pasaulio kultūrose|1
+liepa-audio-00063.npy|liepa-mel-00063.npy|24320|﻿jų įvairovė didžiulė|1
+liepa-audio-00064.npy|liepa-mel-00064.npy|54016|﻿dažnai vaisiai ir daržovės yra kultūriniai augalai|1
+liepa-audio-00065.npy|liepa-mel-00065.npy|167680|﻿beveik visose virtuvėse nemaža dalimi naudojami ir laukiniai augalai tokie kaip grybai laukinės uogos _tyla augalų šaknys lapai|1
+liepa-audio-00066.npy|liepa-mel-00066.npy|71936|﻿kai kuriose kultūrose svarbus šios grupės produktas yra jūržolės|1
+liepa-audio-00067.npy|liepa-mel-00067.npy|120064|﻿prieskoniai _tyla _ikvepimas  gausi produktų grupė skirta _pauze pagardinti valgį|1
+liepa-audio-00068.npy|liepa-mel-00068.npy|83200|﻿visame pasauly naudojamas vienintelis prieskonis _tyla druska|1
+liepa-audio-00069.npy|liepa-mel-00069.npy|45312|﻿visą kitą lemia regioninė įvairovė|1
+liepa-audio-00070.npy|liepa-mel-00070.npy|157952|﻿šventosios Kotrynos vienuolynas _pauze rytų stačiatikių vienuolynas Egipte _pauze Sinajaus kalno papėdėje|2
+liepa-audio-00071.npy|liepa-mel-00071.npy|185600|﻿šis vienuolynas _pauze kartu su šventojo _pauze Antano vienuolynu laikomi seniausiais pasaulyje _pauze tebeveikiančiais krikščionių vienuolynais|2
+liepa-audio-00072.npy|liepa-mel-00072.npy|152832|﻿pasak krikščionių tradicijos _tyla šiame vienuolyne palaidota kankinė _pauze šventoji Kotryna _pauze Aleksandrietė|2
+liepa-audio-00073.npy|liepa-mel-00073.npy|82176|﻿jos palaikus ant Sinajaus kalno _pauze užnešę _pauze angelai|2
+liepa-audio-00074.npy|liepa-mel-00074.npy|75008|﻿o vėliau juos nukėlę _pauze ir į vienuolyną pernešę vienuoliai|2
+liepa-audio-00075.npy|liepa-mel-00075.npy|158976|﻿be degančio krūmo _pauze ir šventosios Kotrynos relikvijų _pauze vienuolynas žymus savo bažnytinio meno paveldu|2
+liepa-audio-00076.npy|liepa-mel-00076.npy|156416|﻿čia yra mozaikų _pauze ikonų iš penkto šešto amžiaus _tyla nepaliestų bizantinio meno tradicijos|2
+liepa-audio-00077.npy|liepa-mel-00077.npy|168704|﻿vienuolyne saugoma _pauze antra pagal dydį rankraščių ir kodeksų kolekcija _tyla nusileidžianti tik Vatikano bibliotekai|2
+liepa-audio-00078.npy|liepa-mel-00078.npy|165632|﻿čia yra senovinių rankraščių graikų arabų armėnų _pauze hebrajų _pauze gruzinų _pauze asirų _pauze udų kalbomis|2
+liepa-audio-00079.npy|liepa-mel-00079.npy|118528|﻿čia rastas ketvirto _pauze amžiaus Sinajaus kodeksas _tyla graikų Biblijos rankraštis|2
+liepa-audio-00080.npy|liepa-mel-00080.npy|213760|﻿kitas labai svarbus dokumentas _pauze rastas vienuolyne _tyla yra pranašo Mochamedo pasirašytas dokumentas _tyla kuriuo įsipareigojama globoti vienuolyną|2
+liepa-audio-00081.npy|liepa-mel-00081.npy|204032|﻿Kotryna _tyla kilusi iš pasiturinčios šeimos _pauze išsilavinusi _pauze mokėjo daug kalbų _pauze studijavo matematiką bei filosofiją|2
+liepa-audio-00082.npy|liepa-mel-00082.npy|25344|﻿ji buvo krikščionė|2
+liepa-audio-00083.npy|liepa-mel-00083.npy|212224|﻿kai jauna moteris pabandė atversti į krikščionišką tikėjimą Romos imperatorių _tyla ji buvo ištremta į Aleksandriją _tyla kur mirė kankinės mirtimi|2
+liepa-audio-00084.npy|liepa-mel-00084.npy|190720|﻿vienuolyno teritorijoje _pauze auga erškėtis _pauze krūmas _ikvepimas kurio ugnies liepsnoje Dievas pirmą kartą apsireiškė pranašui Mozei|2
+liepa-audio-00085.npy|liepa-mel-00085.npy|131840|﻿Egiptui tapus islamo šalimi _tyla vienuolyno teritorijoje buvo pastatyta mečetė|2
+liepa-audio-00086.npy|liepa-mel-00086.npy|87296|﻿šis išmintingas žingsnis _pauze leido išsaugoti vienuolyną|2
+liepa-audio-00087.npy|liepa-mel-00087.npy|197888|﻿pranašas Mochamedas _pauze arabų kalifai _pauze turkų sultonai _pauze ir Prancūzijos imperatorius Napoleonas Bonapartas globojo vienuolyną|2
+liepa-audio-00088.npy|liepa-mel-00088.npy|165120|﻿todėl vienuolynas per visą _pauze ilgą savo istoriją _tyla nė karto nebuvo _pauze užgrobtas _pauze sugriautas _pauze ar _pauze apgadintas|2
+liepa-audio-00089.npy|liepa-mel-00089.npy|155392|﻿baltojo garnio pilis _pauze viena iš lankomiausių Japonijos pilių _pauze pastatytų septynioliktame _pauze amžiuje|2
+liepa-audio-00090.npy|liepa-mel-00090.npy|62720|﻿per savo istoriją _pauze pilis nebuvo sugriauta|2
+liepa-audio-00091.npy|liepa-mel-00091.npy|114944|﻿dėl šios priežasties _tyla iki mūsų dienų _pauze pilies architektūra _pauze išliko _pauze autentiška|2
+liepa-audio-00092.npy|liepa-mel-00092.npy|205056|﻿baltojo garnio pilimi _ikvepimas pastatą japonai pavadino dėl to _tyla kad su šiuo paukščiu asocijuojasi _pauze aukštos baltai tinkuotos pilies sienos|2
+liepa-audio-00093.npy|liepa-mel-00093.npy|254208|﻿pagrindinio bokšto _pauze išreiškiančio tradicinį japonišką stilių _pauze stogai ir ddvikraigiai stogai _pauze pakopa po pakopos _pauze iškyla _pauze aukštai _pauze virš pilies|2
+liepa-audio-00094.npy|liepa-mel-00094.npy|145664|﻿pilis yra labai gerai įtvirtinta _tyla tačiau jos įtvirtinimai niekada nebuvo _pauze išmėginti mūšyje|2
+liepa-audio-00095.npy|liepa-mel-00095.npy|82176|﻿įtvirtintos pilys _ikvepimas Japonijoje buvo paplitusios|2
+liepa-audio-00096.npy|liepa-mel-00096.npy|85248|﻿jos suklestėjo septynioliktojo _pauze amžiaus _pauze antrojoje pusėje|2
+liepa-audio-00097.npy|liepa-mel-00097.npy|100096|﻿tada jomis kaip prieglobsčiu per karus naudojosi Japonijos feodalai|2
+liepa-audio-00098.npy|liepa-mel-00098.npy|199424|﻿kiekviena įtvirtinta pilis _tyla tarp jų ir baltojo garnio _tyla turėjo daugiaaukštį pagrindinį bokštą _tyla ir medinę rėminę konstrukciją|2
+liepa-audio-00099.npy|liepa-mel-00099.npy|91392|﻿nepaprasti _pauze yra pilies gynybiniai pajėgumai _tyla bokštas|2
+liepa-audio-00100.npy|liepa-mel-00100.npy|215808|﻿įtvirtintas ant aukšto mūrinio stačiakampio formos pagrindo _tyla su įgaubtais nuožulniais šonais _tyla ir pasvirusiais kertiniais akmenimis|2
+liepa-audio-00101.npy|liepa-mel-00101.npy|111872|﻿tokia konstrukcija _tyla buvo numatytas tam _tyla kad atlaikytų žemės drebėjimus|2
+liepa-audio-00102.npy|liepa-mel-00102.npy|158464|﻿žodį Meteoros _pauze išvertus iš graikų kalbos _pauze jis reiškia kybančias uolas _pauze kybančias ore|2
+liepa-audio-00103.npy|liepa-mel-00103.npy|99072|﻿tai yra vienas didžiausių _pauze ir žymiausių Graikijos vienuolynų kompleksų |2
+liepa-audio-00104.npy|liepa-mel-00104.npy|124672|﻿vienuolynai yra pastatyti _pauze ant impozantiškų natūralių smiltainio _pauze uolų stulpų|2
+liepa-audio-00105.npy|liepa-mel-00105.npy|81152|﻿esančių šiaurės vakariniame Tesalijos lygumos krašte|2
+liepa-audio-00106.npy|liepa-mel-00106.npy|104704|﻿manoma _pauze jog iš viso buvo pastatyta daugiau _pauze nei dvidešimt vienuolynų|2
+liepa-audio-00107.npy|liepa-mel-00107.npy|74752|﻿tačiau devynioliktame _pauze amžiuje dauguma jų sugriuvo|2
+liepa-audio-00108.npy|liepa-mel-00108.npy|69376|﻿šiuo metu Meteoras sudaro šeši vienuolynai|2
+liepa-audio-00109.npy|liepa-mel-00109.npy|92416|﻿Meteoros vienuolynai _pauze įkurti trijų šimtų metrų _pauze aukštyje|2
+liepa-audio-00110.npy|liepa-mel-00110.npy|107264|﻿dviejų pagrindinių vienuolynų _pauze įkūrėju _pauze laikomas šventasis _pauze Afanasijus|2
+liepa-audio-00111.npy|liepa-mel-00111.npy|165632|﻿šis vienuolis _pauze tūkstantis trys šimtai šedešimtaisiais metais _pauze nuo Atono kalno _pauze atsikraustė į Kalambaką|2
+liepa-audio-00112.npy|liepa-mel-00112.npy|174336|﻿kaip pasakoja legenda _pauze jo buveinė buvo taip aukštai _pauze kad jį galėjo ten užnešti tik _pauze angelas ar _pauze erelis|2
+liepa-audio-00113.npy|liepa-mel-00113.npy|100608|﻿Megalo Meteoro vienuolynas _pauze didžiausias iš visų vienuolynų|2
+liepa-audio-00114.npy|liepa-mel-00114.npy|115456|﻿jis pastatytas _pauze šešių šimtų _pauze dvidešimt penkių metrų _pauze aukštyje|2
+liepa-audio-00115.npy|liepa-mel-00115.npy|180992|﻿vienuolio mokinys Josifas _tyla po trisdešimties metų pratęsė mokytojo idėją _pauze ir čia pastatė vienuolyną|2
+liepa-audio-00116.npy|liepa-mel-00116.npy|135936|﻿Meteora _tyla yra vienas didžiausių _pauze ir svarbiausių Graikijos ortodoksų vienuolynų kompleksų|2
+liepa-audio-00117.npy|liepa-mel-00117.npy|200448|﻿bene įspūdingiausias vienuolynų architektūrinis akcentas _pauze kupolinės lubos _pauze mediniai balkonai _pauze ir viršutiniai _pauze aukštai|2
+liepa-audio-00118.npy|liepa-mel-00118.npy|52992|﻿vienuolynai nepriekaištingai restauruoti|2
+liepa-audio-00119.npy|liepa-mel-00119.npy|112384|﻿kelionę į Meteorą _pauze geriausia pradėti sustojimu _pauze Megalo vienuolyne|2
+liepa-audio-00120.npy|liepa-mel-00120.npy|82176|﻿tai didžiausias _pauze seniausias _pauze ir žinomiausias vienuolynas|2
+liepa-audio-00121.npy|liepa-mel-00121.npy|141056|﻿norint patekti _pauze į šį vienuolyną  _tyla kaip ir į daugelį kitų _tyla reikia įveikti statų šlaitą|2
+liepa-audio-00122.npy|liepa-mel-00122.npy|80640|﻿tai ganėtinai nesunku _pauze lyginant su prabėgusiais šimtmečiais|2
+liepa-audio-00123.npy|liepa-mel-00123.npy|222464|﻿tada vienintelis būdas patekti į vienuolyną _pauze buvo specialus krepšys _pauze į kurį įsodintą žmogų _pauze tam skirto _pauze įrenginio pagalba pakeldavo aukštyn|2
+liepa-audio-00124.npy|liepa-mel-00124.npy|108288|﻿apsilankius Megalo _pauze galima pamatyti daug daugiau nei kituose vienuolynuose|2
+liepa-audio-00125.npy|liepa-mel-00125.npy|164096|﻿pirmiausia _pauze įspūdį sukelia bažnyčia _pauze kuri nuo grindų iki lubų _pauze išdabinta bizantinėmis freskomis|2
+liepa-audio-00126.npy|liepa-mel-00126.npy|117504|﻿turistai vienuolyne gali pamatyti ir seną virtuvę _pauze kurioje įrengta valgykla|2
+liepa-audio-00127.npy|liepa-mel-00127.npy|102656|﻿ji papuošta piktogramomis _pauze ant sienų _pauze ir sidabriniais indais _pauze ant stalų|2
+liepa-audio-00128.npy|liepa-mel-00128.npy|63232|﻿vienuolyne taip pat yra keletas mažų muziejų|2
+liepa-audio-00129.npy|liepa-mel-00129.npy|155904|﻿juose eksponuojami seni vienuolių raštai _tyla religiniai straipsniai _pauze karių uniformos bei ginklai|2
+liepa-audio-00130.npy|liepa-mel-00130.npy|249856|﻿dažnam turistui vienuolyno atmosferą padeda pajusti senasis vyno rūsys _tyla požeminis kalėjimas _pauze ilgas koridorius _pauze ir _pauze kėlimo gervė su tinklu|2
+liepa-audio-00131.npy|liepa-mel-00131.npy|74496|﻿pastaroji buvo naudojama tempti daiktus į vienuolyną|2
+liepa-audio-00132.npy|liepa-mel-00132.npy|146176|﻿lietuviškieji kryžiai _pauze liaudies mažosios architektūros sakralinio _pauze krikščioniškojo turinio statiniai|3
+liepa-audio-00133.npy|liepa-mel-00133.npy|90880|﻿jie yra sudaryti iš architektūrinių dekoratyvinių ir skulptūrinių formų |3
+liepa-audio-00134.npy|liepa-mel-00134.npy|79616|﻿tai savotiška amato meno bei tikėjimo sintezė|3
+liepa-audio-00135.npy|liepa-mel-00135.npy|84736|﻿joje jungiasi skulptūros kalvystės bei tapybos elementai |3
+liepa-audio-00136.npy|liepa-mel-00136.npy|76544|﻿tradicinių kryžių darymas lietuvių liaudies meno šaka |3
+liepa-audio-00137.npy|liepa-mel-00137.npy|118528|﻿įrašyta į Junesko žmonijos nematerialaus ir žodinio paveldas šedevrų sąrašą|3
+liepa-audio-00138.npy|liepa-mel-00138.npy|83200|﻿koplytstulpiai koplytėlės pasižymi formų įvairove|3
+liepa-audio-00139.npy|liepa-mel-00139.npy|89344|﻿lotyniškojo kryžiaus skersinė sija yra trumpesnė už stačiąją|3
+liepa-audio-00140.npy|liepa-mel-00140.npy|110592|﻿graikiškojo kryžiaus abi sijos yra vienodo ilgio ir susikerta ties viduriu|3
+liepa-audio-00141.npy|liepa-mel-00141.npy|96000|﻿kryžiai geležinėmis viršūnėmis or _pauze namentuoti kryžiai saulutės|3
+liepa-audio-00142.npy|liepa-mel-00142.npy|101632|﻿įvairių sužetų medinės skuptūros laikoma vertingiausiu palikimu|3
+liepa-audio-00143.npy|liepa-mel-00143.npy|122624|﻿kryždirbystę tyrinėję krašto muziejaus specialistai surengė iš viso šimtą ekspedicijų|3
+liepa-audio-00144.npy|liepa-mel-00144.npy|68864|﻿Džamo minaretas stovi kalnų apsuptame slėnyje|3
+liepa-audio-00145.npy|liepa-mel-00145.npy|134912|﻿Ankoras didžiulis _pauze šventyklų _pauze rūmų vandens telkinių ir kanalų kompleksas Kambodžoje|3
+liepa-audio-00146.npy|liepa-mel-00146.npy|94464|﻿susidomėjima Stounhendžui duoda nežinomas statybos būdas|3
+liepa-audio-00147.npy|liepa-mel-00147.npy|116992|﻿nežinia kaip čia buvo atgabenti ir į tokį aukštį pakelti tonas sveriantys luitai|3
+liepa-audio-00148.npy|liepa-mel-00148.npy|94464|﻿nauja hipotezė Stonhedžas įkurtas kaip didžiulis kapinynas|3
+liepa-audio-00149.npy|liepa-mel-00149.npy|80128|﻿didžioji kinų siena puikiai pritaikyta prie reljefo|3
+liepa-audio-00150.npy|liepa-mel-00150.npy|65280|﻿vingiuoja palei upių vagas slėnius ir kalnus|3
+liepa-audio-00151.npy|liepa-mel-00151.npy|81664|﻿senąjame Goa įsikūrė portugalų kolonizatoriai|3
+liepa-audio-00152.npy|liepa-mel-00152.npy|105728|﻿Tebrizas nuo senovės buvo svarbus prekybinis centras prie šilko kelio|3
+liepa-audio-00153.npy|liepa-mel-00153.npy|56576|﻿tad jo turgus turėjo strateginę reikšmę|3
+liepa-audio-00154.npy|liepa-mel-00154.npy|116480|﻿turistus vienuolynai stebina unikalių freskų _pauze ikonų bei drožinių kolekcijomis |3
+liepa-audio-00155.npy|liepa-mel-00155.npy|59648|﻿taip pat svaigina užburiančiais kalnų vaizdais|3
+liepa-audio-00156.npy|liepa-mel-00156.npy|125696|﻿įspūdingiausias vienuolynų architektūrinis akcentas _pauze frontoną puošiančios voliutos|3
+liepa-audio-00157.npy|liepa-mel-00157.npy|71424|﻿kupolinės lubos _pauze sunkūs mediniai balkonai |3
+liepa-audio-00158.npy|liepa-mel-00158.npy|58624|﻿viršutiniai aukštai regis kybo ore|3
+liepa-audio-00159.npy|liepa-mel-00159.npy|118528|﻿į patalpas įžengiama pro aukštus negiliaisi reljefais papuoštus portalus|3
+liepa-audio-00160.npy|liepa-mel-00160.npy|140288|﻿pakilus laiptais atsiduriama _pauze centrinėje patalpoje kurios sienoje _pauze išskobtos laidojimo nišos|3
+liepa-audio-00161.npy|liepa-mel-00161.npy|78592|﻿verčiamasi žemdirbyste žvejyba medžio raižyba|3
+liepa-audio-00162.npy|liepa-mel-00162.npy|71936|﻿čia daug mažų siaurų celių _pauze bendri valgomieji |3
+liepa-audio-00163.npy|liepa-mel-00163.npy|9472|﻿labas|3
+liepa-audio-00164.npy|liepa-mel-00164.npy|86784|﻿mano gimtadienis yra pavasarį _pauze esu smulkaus sudėjimo |3
+liepa-audio-00165.npy|liepa-mel-00165.npy|67328|﻿mano akys pilkos gyvenu su mama ir tėčiu|3
+liepa-audio-00166.npy|liepa-mel-00166.npy|88832|﻿aš mėgstu žaisti sportuoti piešti žiūrėti televizorių |3
+liepa-audio-00167.npy|liepa-mel-00167.npy|104704|﻿man skauda galvą gerklę sloguoju kosėju turiu temperatūros |3
+liepa-audio-00168.npy|liepa-mel-00168.npy|23040|﻿aš peršalau |3
+liepa-audio-00169.npy|liepa-mel-00169.npy|111872|﻿kelias dienas geriu vaistus nuo temperatūros nuo kosulio vaistus nuo skausmo|3
+liepa-audio-00170.npy|liepa-mel-00170.npy|100096|﻿Meksikoje esantis senovinis ir unikalus majų šventyklų miestas|3
+liepa-audio-00171.npy|liepa-mel-00171.npy|99584|﻿politinis ekonominis ir religinis šios civilizacijos centras|3
+liepa-audio-00172.npy|liepa-mel-00172.npy|149248|﻿archeologiniai radiniai rodo jog čia gyveno labai specializuoti amatininkai _pauze juvelyras kauladirbys |3
+liepa-audio-00173.npy|liepa-mel-00173.npy|50432|﻿aptikta šimtai stilizuotų figūrų|3
+liepa-audio-00174.npy|liepa-mel-00174.npy|99584|﻿aprašymuose atsiskleidžia mauzoliejaus ir kapaviečių grandioziškumas|3
+liepa-audio-00175.npy|liepa-mel-00175.npy|139520|﻿rašoma apie retus brangakmenius žvaigždėlapį _pauze kur upes ir jūras vaizdavo skystas gyvsidabris|3
+liepa-audio-00176.npy|liepa-mel-00176.npy|96512|﻿gyventojų buitis ir tradicijos nesikeitė ginčai sprendžiami taikiai|3
+liepa-audio-00177.npy|liepa-mel-00177.npy|44800|﻿šis miestas buvo sunkiai pasiekiamas|3
+liepa-audio-00178.npy|liepa-mel-00178.npy|125184|﻿tačiau tokia geografinė padėtis leido jam tapti klestinčiu karavanų ir prekybos centru|3
+liepa-audio-00179.npy|liepa-mel-00179.npy|111360|﻿klasikiniame laikotarpyje prieš miestui suklestint vietovė buo vadinama kitaip |3
+liepa-audio-00180.npy|liepa-mel-00180.npy|68352|﻿Džamo minaretas stovi kalnų apsuptame slėnyje|3
+liepa-audio-00181.npy|liepa-mel-00181.npy|92416|﻿Bucharos senamiesčiui būdinga viduramžių arabiška architektūra|3
+liepa-audio-00182.npy|liepa-mel-00182.npy|110336|﻿Lietuvos didysis kunigaikštis Vytautas fundavo pirmosios bažnyčios statybą|3
+liepa-audio-00183.npy|liepa-mel-00183.npy|132864|﻿Dzūkijos nacionaliniame parke ir Kuršių nerijoje saugomos natūralios ekosistemos|3
+liepa-audio-00184.npy|liepa-mel-00184.npy|93440|﻿po Hetitų imperijos žlugimo visas regionas papuolė į krizę |3
+liepa-audio-00185.npy|liepa-mel-00185.npy|143104|﻿tada išliko tik sienos šiaurėje gynusios nuo klajoklių tautų _pauze tokių kaip hunai ir mongolai|3
+liepa-audio-00186.npy|liepa-mel-00186.npy|124160|﻿pirmasis europietis aptikęs krioklį jį pavadino tuometinės Anglios karalienės garbei |3
+liepa-audio-00187.npy|liepa-mel-00187.npy|76032|﻿krioklys įeina į dviejų nacionalinių parkų teritoriją|3
+liepa-audio-00188.npy|liepa-mel-00188.npy|128768|﻿į salas traukė viso pasaulio gamtininkai keliautojai nuotykių ieškotojai banginių medžiotojai |3
+liepa-audio-00189.npy|liepa-mel-00189.npy|50432|﻿kolonistų banga _pauze užtvindė salas |3
+liepa-audio-00190.npy|liepa-mel-00190.npy|108288|﻿tačiau pirmieji salų gyventojai audrų nublokšti paukščiai fregata flamingas |3
+liepa-audio-00191.npy|liepa-mel-00191.npy|109312|﻿chameleonai _pauze labai specializuoti driežai prisitaikę gyventi medžiuose |3
+liepa-audio-00192.npy|liepa-mel-00192.npy|109824|﻿ežere ir jo apylinkėse buo aptinkama apie šimtą skirtingų gyvūnų rūšių|3
+liepa-audio-00193.npy|liepa-mel-00193.npy|109568|﻿undinės mitinės vandens būtybės randamos daugelyje tautų folklore|3
+liepa-audio-00194.npy|liepa-mel-00194.npy|70400|﻿mamuto urvas yra pats ilgiausias pasaulyje urvas |3
+liepa-audio-00195.npy|liepa-mel-00195.npy|84224|﻿urve mikroklimatas pastovus tvyro pastovi temperatūra |3
+liepa-audio-00196.npy|liepa-mel-00196.npy|127744|﻿išsilydžiusioms uolienoms auštant čaižant vėjams jos kietėjo ir skeldėjo |3
+liepa-audio-00197.npy|liepa-mel-00197.npy|39168|﻿susidarė įtrūkių tinklas |3
+liepa-audio-00198.npy|liepa-mel-00198.npy|93184|﻿šis smiltainio monolitas yra tik milžiniško luito viršūnė|3
+liepa-audio-00199.npy|liepa-mel-00199.npy|209152|﻿dainų švenčių tradicijos valstybinę apsaugą periodiškumą tęstinumą ir plėtrą užtikrina Lietuvos Respublikos dainų švenčių įstatymas|3
+liepa-audio-00200.npy|liepa-mel-00200.npy|83712|﻿didelė dalis lietuvių liaudies muzikos yra labai archajiška |3
+liepa-audio-00201.npy|liepa-mel-00201.npy|83200|﻿apeiginės paskirties tiek pagoniškos tiek krikščioniškos|3
+liepa-audio-00202.npy|liepa-mel-00202.npy|11008|﻿sveiki|3
+liepa-audio-00203.npy|liepa-mel-00203.npy|77056|﻿ar galėtumėte pasakyti _pauze kur yra saldumynų skyrius|3
+liepa-audio-00204.npy|liepa-mel-00204.npy|41216|﻿prašau man pasverti saldainių |3
+liepa-audio-00205.npy|liepa-mel-00205.npy|79616|﻿šaldyto maisto produktų skyriuje man pasvėrė žuvies|3
+liepa-audio-00206.npy|liepa-mel-00206.npy|54528|﻿ar galėčiau gauti krepšelį pirkiniams|3
+liepa-audio-00207.npy|liepa-mel-00207.npy|34048|﻿kiek reikia sumokėti|3
+liepa-audio-00208.npy|liepa-mel-00208.npy|29440|﻿pasilikite grąžą|3
+liepa-audio-00209.npy|liepa-mel-00209.npy|13056|﻿ačiū |3
+liepa-audio-00210.npy|liepa-mel-00210.npy|9216|﻿iki|3
+liepa-audio-00211.npy|liepa-mel-00211.npy|252672|﻿paslaptingos įdubos grioviai išraizgę suakmenėjusį pietų Amerikos dykumos paviršių daugelį kilometrų _pauze _ikvepimas yra viena iš didžiausių archeologinių paslapčių|4
+liepa-audio-00212.npy|liepa-mel-00212.npy|112896|﻿šie įvairūs milžiniški piešiniai atsirado maždaug prieš šešis tūkstančius metų|4
+liepa-audio-00213.npy|liepa-mel-00213.npy|117504|﻿ir yra penkių šimtų kvadratinių kilometrų plote _ikvepimas Peru pietinėje dalyje|4
+liepa-audio-00214.npy|liepa-mel-00214.npy|140544|﻿kai kurios linijos yra seniai tapusios neatskiriama šios vietovės kraštovaizdžio ir topografijos dalimi|4
+liepa-audio-00215.npy|liepa-mel-00215.npy|44288|﻿jos yra nepriekaištingai lygios|4
+liepa-audio-00216.npy|liepa-mel-00216.npy|97536|﻿jos kerta kalvas šlaitus ir yra milžiniškų figūrų pavidalo|4
+liepa-audio-00217.npy|liepa-mel-00217.npy|70400|﻿nuo žemės plika akimi jų neįmanoma atpažinti|4
+liepa-audio-00218.npy|liepa-mel-00218.npy|185088|﻿tik pažvelgus į dykumą iš lėktuvo galima pamatyti _ikvepimas kad visi tie grioviai grioveliai susijungę sudaro konkrečius piešinius|4
+liepa-audio-00219.npy|liepa-mel-00219.npy|92416|﻿daugumos mokslininkų nuomonė dėl jų atsiradimo datos sutampa|4
+liepa-audio-00220.npy|liepa-mel-00220.npy|70400|﻿tai dvyliktas amžius kai čia apsigyveno inkai|4
+liepa-audio-00221.npy|liepa-mel-00221.npy|73472|﻿kiti šiuos piešinius priskiria Naskos civilizacijai|4
+liepa-audio-00222.npy|liepa-mel-00222.npy|246016|﻿tūkstantis devyni šimtai trisdešimt devintaisiais _ikvepimas žvalgybinės misijos metu kultūros istorikas iš lėktuvo pastebėjo kelių kilometrų ilgio geometrines figūras|4
+liepa-audio-00223.npy|liepa-mel-00223.npy|69888|﻿jo atradimas sudomino vokiečių matematikę|4
+liepa-audio-00224.npy|liepa-mel-00224.npy|118016|﻿ji vėliau paskyrė savo gyvenimą paslaptingiems Naskos dykumos vaizdams tyrinėti|4
+liepa-audio-00225.npy|liepa-mel-00225.npy|206080|﻿ji pirmoji aptiko _ikvepimas kad nutiestos linijos ar grioviai yra ne kas kita _pauze o gyvūnų paukščių ir kitokie konkretūs atvaizdai|4
+liepa-audio-00226.npy|liepa-mel-00226.npy|144640|﻿buvo atliktas nemažas darbas šalinant smėlio bei akmens apnašas iš kadaise išraustų įdubų|4
+liepa-audio-00227.npy|liepa-mel-00227.npy|56064|﻿tokiu būdu mokslininkė pasiekė savo|4
+liepa-audio-00228.npy|liepa-mel-00228.npy|210688|﻿stilizuota šimto dvidešimties metrų _pauze kondoro figūra _ikvepimas matėsi taip aiškiai _pauze kad ji galėjo ją nufotografuoti iš lėktuvo|4
+liepa-audio-00229.npy|liepa-mel-00229.npy|137472|﻿tarp kitų nuvalytų piešinių buvo atrastas voras su keturiasdešimties metrų ilgio kojomis|4
+liepa-audio-00230.npy|liepa-mel-00230.npy|93440|﻿taip pat beždžionė _pauze žuvis milžiniškos žmonių figūros|4
+liepa-audio-00231.npy|liepa-mel-00231.npy|97536|﻿mokslininkė tvirtina kad pirmiausia _pauze buvo daromi eskizai|4
+liepa-audio-00232.npy|liepa-mel-00232.npy|114432|﻿po to jie buvo įgyvendinami tokiuose gabarituose _ikvepimas kokius mes matome šiandien|4
+liepa-audio-00233.npy|liepa-mel-00233.npy|145664|﻿visų piešinių išpildymo metodika panaši _pauze vaizdo kontūras tęsiasi nepertraukiama linija|4
+liepa-audio-00234.npy|liepa-mel-00234.npy|179456|﻿ši linija driekiasi dešimtis ir šimtus metrų ne tik per lygią dykumą _ikvepimas bet ir per kalvas bei išdžiūvusias upių vagas|4
+liepa-audio-00235.npy|liepa-mel-00235.npy|180992|﻿kyla logiškas klausimas _ikvepimas kaip be specialių prietaisų bei kontrolės iš viršaus _pauze galima buvo nutiesti šias linijas |4
+liepa-audio-00236.npy|liepa-mel-00236.npy|114432|﻿kreives daugiakampius nenukrypstant nuo nusibrėžto tikslo nei per laipsnį|4
+liepa-audio-00237.npy|liepa-mel-00237.npy|110336|﻿o kai kurių geometrinių figūrų linijos tęsiasi net iki aštuonių kilometrų|4
+liepa-audio-00238.npy|liepa-mel-00238.npy|87808|﻿o kur buvo dedamas gruntas kasant kilometrinius ilgius|4
+liepa-audio-00239.npy|liepa-mel-00239.npy|29952|﻿jo pėdsakų nėra|4
+liepa-audio-00240.npy|liepa-mel-00240.npy|150784|﻿logiška manyti _pauze kad senovės žmonės kurie gyveno šioje dykumoje stengėsi bendrauti su dievais|4
+liepa-audio-00241.npy|liepa-mel-00241.npy|168704|﻿pagal kitą versiją Naskos civilizacijos žmonės tokiu būdu piešiniais stengėsi sudaryti žvaigždynų žemėlapį|4
+liepa-audio-00242.npy|liepa-mel-00242.npy|89856|﻿galbūt norėdami perduoti kažkam užšifruotą informaciją|4
+liepa-audio-00243.npy|liepa-mel-00243.npy|107264|﻿kai kas teigia kad Naskos piešiniai _pauze tai nutūpimo ženklai ateiviams|4
+liepa-audio-00244.npy|liepa-mel-00244.npy|117504|﻿bet kažin ar protingoms būtybėms iš kitų planetų reikėtų tokių primityvių nuorodų|4
+liepa-audio-00245.npy|liepa-mel-00245.npy|49408|﻿kol kas klausimų daugiau nei atsaky _pauze|4
+liepa-audio-00246.npy|liepa-mel-00246.npy|83712|﻿vienas didžiausių priešistorinių megalitinių statinių Stounhendžas |4
+liepa-audio-00247.npy|liepa-mel-00247.npy|58112|﻿tai dešimtis tonų sveriančių akmenų ratas |4
+liepa-audio-00248.npy|liepa-mel-00248.npy|70400|﻿jis atsirado prieš beveik penkis tūkstančius metų|4
+liepa-audio-00249.npy|liepa-mel-00249.npy|108288|﻿į lygumą Anglijoje buvo atitempti įspūdingo dydžio akmenų blokai |4
+liepa-audio-00250.npy|liepa-mel-00250.npy|51456|﻿vėliau jie sustatyti keliais ratais |4
+liepa-audio-00251.npy|liepa-mel-00251.npy|122624|﻿kodėl buvo pastatytas ir kam naudojamas unikalus akmenų ratas yra mįslė|4
+liepa-audio-00252.npy|liepa-mel-00252.npy|62720|﻿ją bando įminti įvairūs mokslininkai|4
+liepa-audio-00253.npy|liepa-mel-00253.npy|146688|﻿tai yra bene žinomiausia šventykla _ikvepimas kurioje kelis šimtus metų lankėsi žmonės iš visos Europos|4
+liepa-audio-00254.npy|liepa-mel-00254.npy|154880|﻿tačiau tai ne tik apeigų vieta _pauze bet ir observatorija _ikvepimas kurioje buvo atliekami astronominiai stebėjimai|4
+liepa-audio-00255.npy|liepa-mel-00255.npy|96512|﻿tokie statiniai seniau leisdavo nustatyti kalendorines šventes |4
+liepa-audio-00256.npy|liepa-mel-00256.npy|115968|﻿tokias kaip saulėgrįžą lygiadienius sėjos arba derliaus nuėmimo metą|4
+liepa-audio-00257.npy|liepa-mel-00257.npy|44288|﻿kaip veikia ši observatorija|4
+liepa-audio-00258.npy|liepa-mel-00258.npy|158464|﻿horizonte stebima _ikvepimas kur pateka saulė arba kur nusileidžia mėnulis arba ryškiausios žvaigždynų žvaigždės|4
+liepa-audio-00259.npy|liepa-mel-00259.npy|111872|﻿stebint iš kurios nors vienos vietos tai pažymima akmeniniais vartais|4
+liepa-audio-00260.npy|liepa-mel-00260.npy|118528|﻿tokiu principu ir yra pastatytas Stounhendžas _pauze tai yra akmenų vartų ratas|4
+liepa-audio-00261.npy|liepa-mel-00261.npy|153344|﻿įdomu ir tai _ikvepimas jog dauguma tokių akmeninių paminklų išsidėstę Atlanto vandenyno pakrantėje|4
+liepa-audio-00262.npy|liepa-mel-00262.npy|72448|﻿kitos Stounhendžo įkūrimo teorijos yra šios|4
+liepa-audio-00263.npy|liepa-mel-00263.npy|57088|﻿tai druidų apeigų atlikimo vieta|4
+liepa-audio-00264.npy|liepa-mel-00264.npy|170752|﻿gydymo vieta _pauze kurią įsteigė pirmieji Britų salose įsikūrę ir _pauze su gyvulių bandomis klajoję gyventojai|4
+liepa-audio-00265.npy|liepa-mel-00265.npy|72448|﻿yra siūloma ir nauja Stounhendžo kilmės versija|4
+liepa-audio-00266.npy|liepa-mel-00266.npy|173824|﻿manoma _ikvepimas kad šis istorinis paminklas galėjo atsirasti čia ėmus laidoti svarbių to meto žmonių šeimų palaikus|4
+liepa-audio-00267.npy|liepa-mel-00267.npy|167680|﻿šioje vietoje atkastų žmonių palaikų tyrimai rodo _ikvepimas jog čia stovėjo daug platesnis kitas akmenų ratas|4
+liepa-audio-00268.npy|liepa-mel-00268.npy|140032|﻿tai buvo kapinynas kuriame buvo laidojami kai kurių to meto bendruomenėje svarbių giminių žmonės|4
+liepa-audio-00269.npy|liepa-mel-00269.npy|96000|﻿archeologai ištyrė šešiasdešimt trijų kremuotų žmonių kaulus|4
+liepa-audio-00270.npy|liepa-mel-00270.npy|151808|﻿nustatyta _ikvepimas kad jie turėjo būti palaidoti šioje vietoje prieš maždaug tris tūkstančius metų prieš Kristų|4
+liepa-audio-00271.npy|liepa-mel-00271.npy|129792|﻿paskutinieji tyrimai rodo _ikvepimas jog Stounhendžą labiau vertėtų traktuoti kaip šventyklą|4
+liepa-audio-00272.npy|liepa-mel-00272.npy|161024|﻿netoli šio istorinio paminklo rastos neolito laikų stovyklavietės archeologiniai tyrinėjimai rodo štai ką|4
+liepa-audio-00273.npy|liepa-mel-00273.npy|186112|﻿į šią vietovę žiemos ir vasaros saulėgrįžų metu _ikvepimas kartu su savo šeimomis ir gyvulių bandomis suplaukdavo būriai žmonių|4
+liepa-audio-00274.npy|liepa-mel-00274.npy|182528|﻿atvykę iš labai tolimų salos kampelių _ikvepimas tokių kaip Škotija _pauze jie čia rengdavo didžiules šventes ir ritualines apeigas|4
+liepa-audio-00275.npy|liepa-mel-00275.npy|108288|﻿mokslininkai mano kad Stounhendžo statytojai čia rinkdavosi sezoniškai|4
+liepa-audio-00276.npy|liepa-mel-00276.npy|78592|﻿tai truko gana neilgai  maždaug kokį gerą dešimtmetį|4
+liepa-audio-00277.npy|liepa-mel-00277.npy|215296|﻿paminklo statybos darbai nutrūko maždaug _pauze tuo laikotarpiu kai iš Europos kontinento į Britų salas plūstelėjo vadinami Bykerio žmonės |4
+liepa-audio-00278.npy|liepa-mel-00278.npy|122880|﻿tokią pravardę jie gavo dėl savosios originalumu pasižyminčios keramikos dirbinių|4
+liepa-audio-00279.npy|liepa-mel-00279.npy|170240|﻿šventosios Kotrynos vienuolynas _pauze rytų stačiatikių vienuolynas Egipte _ikvepimas _pauze Sinajaus kalno papėdėje|7
+liepa-audio-00280.npy|liepa-mel-00280.npy|196864|﻿šis vienuolynas kartu su šventojo Antano vienuolynu _pauze laikomi seniausiais pasaulyje _ikvepimas _pauze tebeveikiančiais krikščionių vienuolynais|7
+liepa-audio-00281.npy|liepa-mel-00281.npy|163072|﻿pasak krikščionių tradicijos _pauze šiame vienuolyne palaidota kankinė šventoji Kotryna Aleksandrietė|7
+liepa-audio-00282.npy|liepa-mel-00282.npy|82688|﻿jos palaikus ant Sinajaus kalno užnešę angelai|7
+liepa-audio-00283.npy|liepa-mel-00283.npy|96512|﻿o vėliau juos nukėlę _pauze ir į vienuolyną pernešę vienuoliai|7
+liepa-audio-00284.npy|liepa-mel-00284.npy|186368|﻿be degančio krūmo _pauze ir šventosios Kotrynos relikvijų _pauze vienuolynas žymus savo bažnytinio meno paveldu|7
+liepa-audio-00285.npy|liepa-mel-00285.npy|163584|﻿čia yra mozaikų _pauze ikonų iš penkto šešto amžiaus _pauze nepaliestų bizantinio meno tradicijos|7
+liepa-audio-00286.npy|liepa-mel-00286.npy|178432|﻿vienuolyne saugoma antra pagal dydį rankraščių ir kodeksų kolekcija _ikvepimas _pauze nusileidžianti tik Vatikano bibliotekai|7
+liepa-audio-00287.npy|liepa-mel-00287.npy|184576|﻿čia yra senovinių rankraščių graikų _pauze arabų _pauze armėnų _pauze hebrajų _pauze gruzinų _pauze asirų _pauze udų kalbomis|7
+liepa-audio-00288.npy|liepa-mel-00288.npy|124672|﻿čia rastas ketvirto amžiaus Sinajaus kodeksas _ikvepimas _pauze graikų Biblijos rankraštis|7
+liepa-audio-00289.npy|liepa-mel-00289.npy|231680|﻿kitas labai svarbus dokumentas _pauze rastas vienuolyne _pauze yra pranašo Mohamedo pasirašytas dokumentas _ikvepimas _pauze kuriuo įsipareigojama globoti vienuolyną|7
+liepa-audio-00290.npy|liepa-mel-00290.npy|221952|﻿Kotryna kilusi iš pasiturinčios šeimos _pauze išsilavinusi _pauze mokėjo daug kalbų _pauze studijavo matematiką bei filosofiją|7
+liepa-audio-00291.npy|liepa-mel-00291.npy|33536|﻿ji buvo krikščionė|7
+liepa-audio-00292.npy|liepa-mel-00292.npy|233728|﻿kai jauna moteris pabandė atversti į krikščionišką tikėjimą Romos imperatorių _pauze ji buvo ištremta į Aleksandriją _ikvepimas _pauze kur mirė kankinės mirtimi|7
+liepa-audio-00293.npy|liepa-mel-00293.npy|211712|﻿vienuolyno teritorijoje auga erškėtis _pauze krūmas _pauze kurio ugnies liepsnoje Dievas pirmą kartą apsireiškė pranašui Mozei|7
+liepa-audio-00294.npy|liepa-mel-00294.npy|136448|﻿Egiptui tapus islamo šalimi _pauze vienuolyno teritorijoje buvo pastatyta mečetė|7
+liepa-audio-00295.npy|liepa-mel-00295.npy|96256|﻿šis išmintingas žingsnis _pauze leido išsaugoti vienuolyną|7
+liepa-audio-00296.npy|liepa-mel-00296.npy|219392|﻿pranašas Mohamedas _pauze arabų kalifai _pauze turkų sultonai _pauze ir Prancūzijos imperatorius Napoleonas Bonapartas globojo vienuolyną|7
+liepa-audio-00297.npy|liepa-mel-00297.npy|192768|﻿todėl vienuolynas _pauze per visą ilgą savo istoriją _pauze nė karto nebuvo užgrobtas _pauze sugriautas ar apgadintas|7
+liepa-audio-00298.npy|liepa-mel-00298.npy|160000|﻿baltojo garnio pilis _pauze viena iš lankomiausių Japonijos pilių _pauze pastatytų septynioliktame amžiuje|7
+liepa-audio-00299.npy|liepa-mel-00299.npy|73472|﻿per savo istoriją _pauze pilis nebuvo sugriauta|7
+liepa-audio-00300.npy|liepa-mel-00300.npy|128768|﻿dėl šios priežasties iki mūsų dienų _ikvepimas _pauze pilies architektūra išliko autentiška|7
+liepa-audio-00301.npy|liepa-mel-00301.npy|235776|﻿baltojo garnio pilimi _ikvepimas _pauze pastatą japonai pavadino dėl to _iskvepimas _pauze kad su šiuo paukščiu _pauze asocijuojasi aukštos baltai tinkuotos pilies sienos|7
+liepa-audio-00302.npy|liepa-mel-00302.npy|236288|﻿pagrindinio bokšto _pauze išreiškiančio tradicinį japonišką stilių _pauze stogai _pauze ir dvikraigiai stogai _pauze pakopa po pakopos iškyla aukštai virš pilies|7
+liepa-audio-00303.npy|liepa-mel-00303.npy|139520|﻿pilis yra labai gerai įtvirtinta _pauze tačiau jos įtvirtinimai niekada nebuvo išmėginti mūšyje|7
+liepa-audio-00304.npy|liepa-mel-00304.npy|80640|﻿įtvirtintos pilys _pauze Japonijoje buvo paplitusios|7
+liepa-audio-00305.npy|liepa-mel-00305.npy|87808|﻿jos suklestėjo septynioliktojo amžiaus antrojoje pusėje|7
+liepa-audio-00306.npy|liepa-mel-00306.npy|106496|﻿tada jomis kaip prieglobsčiu per karus _ikvepimas _pauze naudojosi Japonijos feodalai|7
+liepa-audio-00307.npy|liepa-mel-00307.npy|218880|﻿kiekviena įtvirtinta pilis _pauze tarp jų ir baltojo garnio _pauze turėjo daugiaaukštį pagrindinį bokštą _pauze ir medinę rėminę konstrukciją|7
+liepa-audio-00308.npy|liepa-mel-00308.npy|95488|﻿nepaprasti yra pilies gynybiniai pajėgumai _ikvepimas _pauze bokštas|7
+liepa-audio-00309.npy|liepa-mel-00309.npy|233216|﻿įtvirtintas ant aukšto mūrinio stačiakampio formos pagrindo _ikvepimas _pauze su įgaubtais nuožulniais šonais _pauze ir pasvirusiais _pauze kertiniais akmenimis|7
+liepa-audio-00310.npy|liepa-mel-00310.npy|113920|﻿tokia konstrukcija _pauze buvo numatyta tam _pauze kad atlaikytų žemės drebėjimus|7
+liepa-audio-00311.npy|liepa-mel-00311.npy|176896|﻿žodį Meteoros _pauze išvertus iš graikų kalbos _pauze jis reiškia kybančias uolas _pauze kybančias ore|7
+liepa-audio-00312.npy|liepa-mel-00312.npy|117504|﻿tai yra vienas didžiausių _ikvepimas _pauze ir žymiausių Graikijos vienuolynų kompleksų|7
+liepa-audio-00313.npy|liepa-mel-00313.npy|141568|﻿vienuolynai _pauze yra pastatyti _pauze ant _pauze impozantiškų _tyla natūralių smiltainio _pauze uolų stulpų|7
+liepa-audio-00314.npy|liepa-mel-00314.npy|99584|﻿esančių šiaurės _tyla vakariniame Tesalijos lygumos krašte|7
+liepa-audio-00315.npy|liepa-mel-00315.npy|108800|﻿manoma _pauze jog iš viso buvo pastatyta daugiau nei dvidešimt vienuolynų|7
+liepa-audio-00316.npy|liepa-mel-00316.npy|87808|﻿tačiau devynioliktame amžiuje _ikvepimas _pauze dauguma jų sugriuvo|7
+liepa-audio-00317.npy|liepa-mel-00317.npy|70912|﻿šiuo metu Meteoras sudaro šeši vienuolynai|7
+liepa-audio-00318.npy|liepa-mel-00318.npy|103168|﻿Meteoros vienuolynai _pauze įkurti trijų šimtų metrų aukštyje|7
+liepa-audio-00319.npy|liepa-mel-00319.npy|128768|﻿dviejų pagrindinių vienuolynų įkūrėju _ikvepimas _pauze laikomas šventasis Afanasijus|7
+liepa-audio-00320.npy|liepa-mel-00320.npy|192256|﻿šis vienuolis _pauze tūkstantis trys šimtai _pauze šešiasdešimtaisiais metais _pauze nuo Atono kalno atsikraustė į Kalambaką|7
+liepa-audio-00321.npy|liepa-mel-00321.npy|187136|﻿kaip pasakoja legenda _pauze jo buveinė buvo taip aukštai _pauze kad jį galėjo ten užnešti tik angelas ar erelis|7
+liepa-audio-00322.npy|liepa-mel-00322.npy|99584|﻿Megalo Meteoro vienuolynas _ikvepimas _pauze didžiausias iš visų vienuolynų|7
+liepa-audio-00323.npy|liepa-mel-00323.npy|107264|﻿jis pastatytas šešių šimtų _pauze dvidešimt penkių _pauze metrų aukštyje|7
+liepa-audio-00324.npy|liepa-mel-00324.npy|172800|﻿vienuolio mokinys Josifas _pauze po trisdešimties metų pratęsė mokytojo idėją _pauze ir čia pastatė vienuolyną|7
+liepa-audio-00325.npy|liepa-mel-00325.npy|137472|﻿Meteora yra vienas didžiausių ir svarbiausių _ikvepimas _pauze Graikijos ortodoksų vienuolynų kompleksų|7
+liepa-audio-00326.npy|liepa-mel-00326.npy|204544|﻿bene įspūdingiausias vienuolynų architektūrinis akcentas _pauze kupolinės lubos _pauze mediniai balkonai ir viršutiniai aukštai|7
+liepa-audio-00327.npy|liepa-mel-00327.npy|56064|﻿vienuolynai nepriekaištingai restauruo _pauze ti|7
+liepa-audio-00328.npy|liepa-mel-00328.npy|88832|﻿kelionę į Meteorą _ikvepimas _pauze geriausia pradėti sustojimu Megalo vienuolyne|7
+liepa-audio-00329.npy|liepa-mel-00329.npy|88320|﻿tai didžiausias _pauze seniausias ir žinomiausias vienuolynas|7
+liepa-audio-00330.npy|liepa-mel-00330.npy|140544|﻿norint patekti į šį vienuolyną  _pauze kaip ir į daugelį kitų reikia įveikti statų šlaitą|7
+liepa-audio-00331.npy|liepa-mel-00331.npy|95488|﻿tai ganėtinai nesunku _pauze lyginant su prabėgusiais šimtmečiais|7
+liepa-audio-00332.npy|liepa-mel-00332.npy|244992|﻿tada vienintelis būdas patekti į vienuolyną _pauze buvo specialus krepšys _pauze į kurį įsodintą žmogų tam skirto įrenginio pagalba pakeldavo aukštyn|7
+liepa-audio-00333.npy|liepa-mel-00333.npy|138496|﻿apsilankius Megalo _pauze galima pamatyti daug daugiau _pauze nei kituose vienuolynuose|7
+liepa-audio-00334.npy|liepa-mel-00334.npy|171776|﻿pirmiausia _pauze įspūdį sukelia bažnyčia _pauze kuri nuo grindų iki lubų išdabinta bizantinėmis freskomis|7
+liepa-audio-00335.npy|liepa-mel-00335.npy|143104|﻿turistai vienuolyne _pauze gali pamatyti ir seną virtuvę _pauze kurioje įrengta valgykla|7
+liepa-audio-00336.npy|liepa-mel-00336.npy|109824|﻿ji papuošta piktogramomis ant sienų _pauze ir sidabriniais indais _dais ant stalų|7
+liepa-audio-00337.npy|liepa-mel-00337.npy|64256|﻿vienuolyne taip pat yra keletas mažų muziejų|7
+liepa-audio-00338.npy|liepa-mel-00338.npy|151296|﻿juose eksponuojami seni vienuolių raštai _pauze religiniai straipsniai karių uniformos bei ginklai|7
+liepa-audio-00339.npy|liepa-mel-00339.npy|255232|﻿dažnam turistui _pauze vienuolyno atmosferą padeda pajusti senasis vyno rūsys _pauze požeminis kalėjimas _pauze ilgas koridorius ir kėlimo gervė su tinklu|7
+liepa-audio-00340.npy|liepa-mel-00340.npy|105216|﻿pastaroji buvo naudojama tempti daiktus į vienuolyną|7
+liepa-audio-00341.npy|liepa-mel-00341.npy|154880|﻿lietuviškieji kryžiai _pauze liaudies mažosios architektūros sakralinio krikščioniškojo turinio statiniai|11
+liepa-audio-00342.npy|liepa-mel-00342.npy|116992|﻿jies yra sudaryti _pauze iš architektūrinių dekoratyvinių ir skulptūrinių formų |11
+liepa-audio-00343.npy|liepa-mel-00343.npy|86272|﻿tai savotiška amato _pauze meno bei tikėjimo sintezė|11
+liepa-audio-00344.npy|liepa-mel-00344.npy|92416|﻿joje jungiasi skulptūros kalvystės bei tapybos elementai |11
+liepa-audio-00345.npy|liepa-mel-00345.npy|75008|﻿tradicinių kryžių darymas _pauze lietuvių liaudies meno šaka |11
+liepa-audio-00346.npy|liepa-mel-00346.npy|110336|﻿įrašyta į Junesko žmonijos nematerialaus ir žodinio paveldo šedevrų sąrašą|11
+liepa-audio-00347.npy|liepa-mel-00347.npy|78592|﻿koplytstulpiai _pauze koplytėlės pasižymi formų įvairove|11
+liepa-audio-00348.npy|liepa-mel-00348.npy|96512|﻿lotyniškojo kryžiaus skersinė sija _pauze yra trumpesnė už stačiąją|11
+liepa-audio-00349.npy|liepa-mel-00349.npy|109312|﻿graikiškojo kryžiaus abi sijos yra vienodo ilgio ir susikerta ties viduriu|11
+liepa-audio-00350.npy|liepa-mel-00350.npy|104192|﻿kryžiai geležinėmis viršūnėmis _tyla ornamentuoti kryžiai saulutės|11
+liepa-audio-00351.npy|liepa-mel-00351.npy|83712|﻿įvairių siužetų medinės skulptūros laikomos vertingiausiu palikimu|11
+liepa-audio-00352.npy|liepa-mel-00352.npy|114432|﻿kryždirbystę tyrinėję krašto muziejaus specialistai surengė iš viso šimtą ekspedicijų|11
+liepa-audio-00353.npy|liepa-mel-00353.npy|66816|﻿Džamo minaretas stovi kalnų apsuptame slėnyje|11
+liepa-audio-00354.npy|liepa-mel-00354.npy|129280|﻿Ankoras didžiulis šventyklų rūmų _pauze vandens telkinių ir kanalų kompleksas Kambodžoje|11
+liepa-audio-00355.npy|liepa-mel-00355.npy|79616|﻿susidomėjimo Stounhedžui duoda nežinomas statybos būdas|11
+liepa-audio-00356.npy|liepa-mel-00356.npy|116992|﻿nežinia _ikvepimas kaip čia buvo atgabenti ir į tokį aukštį pakelti tonas sveriantys luitai|11
+liepa-audio-00357.npy|liepa-mel-00357.npy|99072|﻿nauja hipotezė _tyla Stounhedžas įkurtas kaip didžiulis kapinynas|11
+liepa-audio-00358.npy|liepa-mel-00358.npy|70912|﻿didžioji kinų siena puikiai pritaikyta prie reljefo|11
+liepa-audio-00359.npy|liepa-mel-00359.npy|69888|﻿vingiuoja palei upių vagas slėnius ir kalnus|11
+liepa-audio-00360.npy|liepa-mel-00360.npy|72960|﻿senąjame Goa _pauze įsikūrė portugalų kolonizatoriai|11
+liepa-audio-00361.npy|liepa-mel-00361.npy|89344|﻿Tebrizas nuo senovės buvo svarbus prekybinis centras prie šilko kelio|11
+liepa-audio-00362.npy|liepa-mel-00362.npy|51968|﻿tad jo turgus turėjo strateginę reikšmę|11
+liepa-audio-00363.npy|liepa-mel-00363.npy|107776|﻿turistus vienuolynai stebina unikalių freskų ikonų bei drožinių kolekcijomis |11
+liepa-audio-00364.npy|liepa-mel-00364.npy|54528|﻿taip pat svaigina užburiančiais kalnų vaizdais|11
+liepa-audio-00365.npy|liepa-mel-00365.npy|101120|﻿įspūdingiausias vienuolynų architektūrinis akcentas _pauze frontoną puošiančios voliutos|11
+liepa-audio-00366.npy|liepa-mel-00366.npy|56576|﻿kupolinės lubos sunkūs mediniai balkonai |11
+liepa-audio-00367.npy|liepa-mel-00367.npy|58624|﻿viršutiniai aukštai regis kybo ore|11
+liepa-audio-00368.npy|liepa-mel-00368.npy|96000|﻿į patalpas įžengiama pro aukštus negiliais reljefais papuoštus portalus|11
+liepa-audio-00369.npy|liepa-mel-00369.npy|147200|﻿pakilus laiptais atsiduriama centrinėje patalpoje _pauze kurios sienoje išskobtos _tyla laidojimo nišos|11
+liepa-audio-00370.npy|liepa-mel-00370.npy|71936|﻿verčiamasi žemdirbyste žvejyba medžio raižyba|11
+liepa-audio-00371.npy|liepa-mel-00371.npy|60672|﻿čia daug mažų siaurų celių bendri valgomieji |11
+liepa-audio-00372.npy|liepa-mel-00372.npy|8960|﻿labas|11
+liepa-audio-00373.npy|liepa-mel-00373.npy|73472|﻿mano gimtadienis yra pavasarį esu smulkaus sudėjimo |11
+liepa-audio-00374.npy|liepa-mel-00374.npy|65280|﻿mano akys pilkos gyvenu su mama ir tėčiu|11
+liepa-audio-00375.npy|liepa-mel-00375.npy|87808|﻿aš mėgstu žaisti sportuoti piešti žiūrėti televizorių |11
+liepa-audio-00376.npy|liepa-mel-00376.npy|96512|﻿man skauda galvą gerklę sloguoju kosėju turiu temperatūros |11
+liepa-audio-00377.npy|liepa-mel-00377.npy|20736|﻿aš peršalau |11
+liepa-audio-00378.npy|liepa-mel-00378.npy|100096|﻿kelias dienas geriu vaistus nuo temperatūros nuo kosulio vaistus nuo skausmo|11
+liepa-audio-00379.npy|liepa-mel-00379.npy|85760|﻿Meksikoje esantis senovinis ir unikalus majų šventyklų miestas|11
+liepa-audio-00380.npy|liepa-mel-00380.npy|80128|﻿politinis ekonominis ir religinis šios civilizacijos centras|11
+liepa-audio-00381.npy|liepa-mel-00381.npy|137472|﻿archeologiniai radiniai rodo jog čia gyveno labai specializuoti amatininkai _pauze juvelyras kauladirbys |11
+liepa-audio-00382.npy|liepa-mel-00382.npy|44288|﻿aptikta šimtai stilizuotų figūrų|11
+liepa-audio-00383.npy|liepa-mel-00383.npy|98560|﻿aprašymuose atsiskleidžia muhul mauzoliejaus ir kapaviečių grandioziškumas|11
+liepa-audio-00384.npy|liepa-mel-00384.npy|126208|﻿rašoma apie retus brangakmenius žvaigždėlapį _pauze kur upes ir jūras vaizdavo skystas gyvsidabris|11
+liepa-audio-00385.npy|liepa-mel-00385.npy|85248|﻿gyventojų buitis ir tradicijos nesikeitė ginčai sprendžiami taikiai|11
+liepa-audio-00386.npy|liepa-mel-00386.npy|45312|﻿šis miestas buo sunkiai pasiekiamas|11
+liepa-audio-00387.npy|liepa-mel-00387.npy|120064|﻿tačiau tokia geografinė padėtis leido jam tapti _pauze klestinčiu karavanų ir prekybos centru|11
+liepa-audio-00388.npy|liepa-mel-00388.npy|110336|﻿klasikiniame laikotarpyje prieš miestui suklestint _pauze vietovė buvo vadinama kitaip |11
+liepa-audio-00389.npy|liepa-mel-00389.npy|64768|﻿Džamo minaretas stovi kalnų apsuptame slėnyje|11
+liepa-audio-00390.npy|liepa-mel-00390.npy|87296|﻿Bucharos senamiesčiui būdinga viduramžių _pauze arabiška architektūra|11
+liepa-audio-00391.npy|liepa-mel-00391.npy|98560|﻿Lietuvos didysis kunigaikštis Vytautas fundavo pirmosios bažnyčios statybą|11
+liepa-audio-00392.npy|liepa-mel-00392.npy|123136|﻿Dzūkijos nacionaliniame parke _pauze ir Kuršių nerijoje saugomos natūralios ekosistemos|11
+liepa-audio-00393.npy|liepa-mel-00393.npy|82176|﻿po Hetitų imperijos žlugimo visas regionas papuolė į krizę |11
+liepa-audio-00394.npy|liepa-mel-00394.npy|132352|﻿tada išliko tik sienos šiaurėje gynusios nuo klajoklių tautų _pauze tokių kaip hunai ir mongolai|11
+liepa-audio-00395.npy|liepa-mel-00395.npy|115968|﻿pirmasis europietis aptikęs krioklį jį pavadino tuometinės Anglijos karalienės garbei |11
+liepa-audio-00396.npy|liepa-mel-00396.npy|76032|﻿kroklys įeina į dviejų nacionalinių parkų teritoriją|11
+liepa-audio-00397.npy|liepa-mel-00397.npy|139520|﻿į salas traukė viso pasaulio gamtininkai keliautojai nuotykių ieškotojai _pauze banginių medžiotojai |11
+liepa-audio-00398.npy|liepa-mel-00398.npy|42752|﻿kolonistų banga užtvindė salas |11
+liepa-audio-00399.npy|liepa-mel-00399.npy|111872|﻿tačiau pirmieji salų gyventojai _pauze audrų nublokšti paukščiai _pauze fregata flamingas|11
+liepa-audio-00400.npy|liepa-mel-00400.npy|93952|﻿chameleonai labai specializuoti driežai _pauze prisitaikę gyvent medžiuose |11
+liepa-audio-00401.npy|liepa-mel-00401.npy|97536|﻿ežere ir jo apylinkėse buo aptinkama apie šimtą skirtingų gyvūnų rūšių|11
+liepa-audio-00402.npy|liepa-mel-00402.npy|102144|﻿undinės  mitinės vandens būtybės randamos daugelyje tautų folklore|11
+liepa-audio-00403.npy|liepa-mel-00403.npy|71424|﻿mamuto urvas yra pats ilgiausias pasaulyje urvas |11
+liepa-audio-00404.npy|liepa-mel-00404.npy|91392|﻿urve mikroklimatas pastovus _tyla tvyro pastovi temperatūra |11
+liepa-audio-00405.npy|liepa-mel-00405.npy|108800|﻿išsilydžiusioms uolienoms auštant_auš čaižant vėjams jos kietėjo ir skeldėjo |11
+liepa-audio-00406.npy|liepa-mel-00406.npy|35584|﻿susidarė įtrūkių tinklas |11
+liepa-audio-00407.npy|liepa-mel-00407.npy|79616|﻿šis smiltainio monolitas yra tik milžiniško luito viršūnė|11
+liepa-audio-00408.npy|liepa-mel-00408.npy|178944|﻿dainų švenčių tradicijos valstybinę apsaugą periodiškumą tęstinumą ir plėtrą užtikrina Lietuvos Respublikos dainų švenčių įstatymas|11
+liepa-audio-00409.npy|liepa-mel-00409.npy|72448|﻿didelė dalis lietuvių liaudies muzikos yra labai archajiška |11
+liepa-audio-00410.npy|liepa-mel-00410.npy|79616|﻿apeiginės paskirties  tiek pagoniškos tiek krikščioniškos|11
+liepa-audio-00411.npy|liepa-mel-00411.npy|11008|﻿sveiki|11
+liepa-audio-00412.npy|liepa-mel-00412.npy|63744|﻿ar galėtumėte pasakyti kur yra saldumynų skyrius|11
+liepa-audio-00413.npy|liepa-mel-00413.npy|41216|﻿prašau man pasverti saldainių |11
+liepa-audio-00414.npy|liepa-mel-00414.npy|73984|﻿šaldyto maisto produktų skyriuje man pasvėrė žuvies|11
+liepa-audio-00415.npy|liepa-mel-00415.npy|46848|﻿ar galėčiau gauti krepšelį pirkiniams|11
+liepa-audio-00416.npy|liepa-mel-00416.npy|32000|﻿kiek reikia sumokėti|11
+liepa-audio-00417.npy|liepa-mel-00417.npy|24832|﻿pasilikite grąžą|11
+liepa-audio-00418.npy|liepa-mel-00418.npy|11008|﻿ačiū |11
+liepa-audio-00419.npy|liepa-mel-00419.npy|8960|﻿iki|11
+liepa-audio-00420.npy|liepa-mel-00420.npy|213248|﻿paslaptingos įdubos grioviai išraizgę suakmenėjusį pietų Amerikos dykumos paviršių daugelį kilometrų _ikvepimas yra viena iš didžiausių archeologinių paslapčių|12
+liepa-audio-00421.npy|liepa-mel-00421.npy|92416|﻿šie įvairūs milžiniški piešiniai atsirado maždaug prieš šešis tūkstančius metų|12
+liepa-audio-00422.npy|liepa-mel-00422.npy|88320|﻿ir yra penkių šimtų kvadratinių kilometrų plote Peru pietinėje dalyje|12
+liepa-audio-00423.npy|liepa-mel-00423.npy|144640|﻿kai kurios linijos yra seniai tapusios neatskiriama šios vietovės kraštovaizdžio _ikvepimas ir topografijos dalimi|12
+liepa-audio-00424.npy|liepa-mel-00424.npy|43776|﻿jos yra nepriekaištingai lygios|12
+liepa-audio-00425.npy|liepa-mel-00425.npy|86784|﻿jos kerta kalvas šlaitus ir yra milžiniškų figūrų pavidalo|12
+liepa-audio-00426.npy|liepa-mel-00426.npy|59648|﻿nuo žemės plika akimi jų neįmanoma atpažinti|12
+liepa-audio-00427.npy|liepa-mel-00427.npy|164608|﻿tik pažvelgus į dykumą iš lėktuvo galima pamatyti _pauze kad visi tie grioviai grioveliai susijungę sudaro konkrečius piešinius|12
+liepa-audio-00428.npy|liepa-mel-00428.npy|80640|﻿daugumos mokslininkų nuomonė dėl jų atsiradimo datos sutampa|12
+liepa-audio-00429.npy|liepa-mel-00429.npy|72448|﻿tai dvyliktas amžius _pauze _ikvepimas kai čia apsigyveno inkai|12
+liepa-audio-00430.npy|liepa-mel-00430.npy|79104|﻿kiti šiuos piešinius _pauze priskiria Naskos civilizacijai|12
+liepa-audio-00431.npy|liepa-mel-00431.npy|216832|﻿tūkstantis devyni šimtai trisdešimt devintaisiais _pauze žvalgybinės misijos metu kultūros istorikas iš lėktuvo pastebėjo kelių kilometrų ilgio geometrines figūras|12
+liepa-audio-00432.npy|liepa-mel-00432.npy|65280|﻿jo atradimas sudomino vokiečių _pauze matematikę|12
+liepa-audio-00433.npy|liepa-mel-00433.npy|103680|﻿ji vėliau paskyrė savo gyvenimą paslaptingiems Naskos dykumos vaizdams tyrinėti|12
+liepa-audio-00434.npy|liepa-mel-00434.npy|167168|﻿ji pirmoji aptiko kad nutiestos linijos ar grioviai _pauze yra ne kas kita o gyvūnų paukščių _pauze ir kitokie konkretūs atvaizdai _pauze|12
+liepa-audio-00435.npy|liepa-mel-00435.npy|136448|﻿buvo atliktas nemažas darbas šalinant smėlio bei akmens apnašas _ikvepimas iš kadaise išraustų įdubų|12
+liepa-audio-00436.npy|liepa-mel-00436.npy|48384|﻿tokiu būdu mokslininkė pasiekė savo|12
+liepa-audio-00437.npy|liepa-mel-00437.npy|215808|﻿stilizuota šimto _ikvepimas dvidešimties metrų _pauze kondoro figūra _ikvepimas matėsi taip aiškiai kad ji galėjo ją nufotografuoti iš lėktuvo|12
+liepa-audio-00438.npy|liepa-mel-00438.npy|120576|﻿tarp kitų nuvalytų piešinių buvo atrastas voras su keturiasdešimties metrų ilgio kojomis|12
+liepa-audio-00439.npy|liepa-mel-00439.npy|72960|﻿taip pat beždžionė žuvis milžiniškos žmonių figūros|12
+liepa-audio-00440.npy|liepa-mel-00440.npy|71936|﻿mokslininkė tvirtina kad pirmiausia buvo daromi eskizai|12
+liepa-audio-00441.npy|liepa-mel-00441.npy|96000|﻿po to jie buvo įgyvendinami tokiuose gabarituose kokius mes matome šiandien|12
+liepa-audio-00442.npy|liepa-mel-00442.npy|122112|﻿visų piešinių išpildymo metodika panaši _pauze vaizdo kontūras tęsiasi nepertraukiama linija|12
+liepa-audio-00443.npy|liepa-mel-00443.npy|157440|﻿ši linija driekiasi dešimtis ir šimtus metrų ne tik per lygią dykumą _ikvepimas bet ir per kalvas _pauze bei išdžiūvusias upių vagas|12
+liepa-audio-00444.npy|liepa-mel-00444.npy|145152|﻿kyla logiškas klausimas _pauze kaip be specialių prietaisų bei _pauze kontrolės iš viršaus galima buvo nutiesti šias linijas |12
+liepa-audio-00445.npy|liepa-mel-00445.npy|104192|﻿kreives daugiakampius _pauze nenukrypstant nuo nusibrėžto tikslo nei per laipsnį|12
+liepa-audio-00446.npy|liepa-mel-00446.npy|89856|﻿o kai kurių geometrinių figūrų linijos tęsiasi net iki aštuonių kilometrų|12
+liepa-audio-00447.npy|liepa-mel-00447.npy|66304|﻿o kur buvo dedamas gruntas kasant kilometrinius ilgius|12
+liepa-audio-00448.npy|liepa-mel-00448.npy|24832|﻿jo pėdsakų nėra|12
+liepa-audio-00449.npy|liepa-mel-00449.npy|140032|﻿logiška manyti kad senovės žmonės kurie gyveno šioje dykumoje _pauze _ikvepimas stengėsi bendrauti su dievais|12
+liepa-audio-00450.npy|liepa-mel-00450.npy|140032|﻿pagal kitą versiją Naskos civilizacijos žmonės tokiu būdu piešiniais stengėsi sudaryti žvaigždynų žemėlapį|12
+liepa-audio-00451.npy|liepa-mel-00451.npy|77056|﻿galbūt norėdami perduoti kažkam užšifruotą informaciją|12
+liepa-audio-00452.npy|liepa-mel-00452.npy|91904|﻿kkas teigia _pauze _ikvepimas kad Naskos piešiniai _pauze tai nutūpimo ženklai ateiviams|12
+liepa-audio-00453.npy|liepa-mel-00453.npy|108800|﻿bet kažin ar protingoms būtybėms iš kitų planetų _ikvepimas reikėtų tokių primityvių nuorodų|12
+liepa-audio-00454.npy|liepa-mel-00454.npy|48896|﻿kol kas klausimų daugiau nei atsakymų|12
+liepa-audio-00455.npy|liepa-mel-00455.npy|87296|﻿vienas didžiausių priešistorinių megalitinių statinių Stounhendžas |12
+liepa-audio-00456.npy|liepa-mel-00456.npy|49920|﻿tai dešimtis tonų sveriančių akmenų ratas |12
+liepa-audio-00457.npy|liepa-mel-00457.npy|57600|﻿jis atsirado prieš beveik penkis tūkstančius metų|12
+liepa-audio-00458.npy|liepa-mel-00458.npy|83200|﻿į lygumą Anglijoje buvo atitempti įspūdingo dydžio akmenų blokai |12
+liepa-audio-00459.npy|liepa-mel-00459.npy|44288|﻿vėliau jie sustatyti keliais ratais |12
+liepa-audio-00460.npy|liepa-mel-00460.npy|92928|﻿kodėl buvo pastatytas ir kam naudojamas unikalus akmenų ratas yra mįslė|12
+liepa-audio-00461.npy|liepa-mel-00461.npy|44288|﻿ją bando įminti įvairūs mokslininkai _pauze|12
+liepa-audio-00462.npy|liepa-mel-00462.npy|120064|﻿tai yra bene žinomiausia šventykla kurioje kelis šimtus metų lankėsi žmonės iš visos Europos|12
+liepa-audio-00463.npy|liepa-mel-00463.npy|134400|﻿tačiau tai ne tik apeigų vieta bet ir observatorija _pauze kurioje buvo atliekami astronominiai stebėjimai|12
+liepa-audio-00464.npy|liepa-mel-00464.npy|80128|﻿tokie statiniai seniau leisdavo nustatyti kalendorines šventes |12
+liepa-audio-00465.npy|liepa-mel-00465.npy|86272|﻿tokias kaip saulėgrįžą lygiadienius sėjos arba derliaus nuėmimo metą|12
+liepa-audio-00466.npy|liepa-mel-00466.npy|35072|﻿kaip veikia ši observatorija|12
+liepa-audio-00467.npy|liepa-mel-00467.npy|133376|﻿horizonte stebima kur pateka saulė arba kur nusileidžia mėnulis arba ryškiausios žvaigždynų žvaigždės|12
+liepa-audio-00468.npy|liepa-mel-00468.npy|79616|﻿stebint iš kurios nors vienos vietos tai pažymima akmeniniais vartais|12
+liepa-audio-00469.npy|liepa-mel-00469.npy|125696|﻿tokiu principu ir yra pastatytas _pauze Stounhendžas _tyla tai yra akmenų vartų ratas|12
+liepa-audio-00470.npy|liepa-mel-00470.npy|108288|﻿įdomu ir tai jog dauguma tokių akmeninių paminklų išsidėstę Atlanto vandenyno pakrantėje _pauze|12
+liepa-audio-00471.npy|liepa-mel-00471.npy|57600|﻿kitos Stounhendžo įkūrimo teorijos yra šios|12
+liepa-audio-00472.npy|liepa-mel-00472.npy|45312|﻿tai druidų apeigų atlikimo vieta|12
+liepa-audio-00473.npy|liepa-mel-00473.npy|135936|﻿gydymo vieta kurią įsteigė pirmieji Britų salose įsikūrę ir su gyvulių bandomis klajoję gyventojai|12
+liepa-audio-00474.npy|liepa-mel-00474.npy|56064|﻿yra siūloma ir nauja Stounhendžo kilmės versija|12
+liepa-audio-00475.npy|liepa-mel-00475.npy|137472|﻿manoma kad šis istorinis paminklas galėjo atsirasti čia ėmus laidoti svarbių to meto žmonių šeimų palaikus|12
+liepa-audio-00476.npy|liepa-mel-00476.npy|131840|﻿šioje vietoje atkastų žmonių palaikų tyrimai rodo jog čia stovėjo daug platesnis kitas akmenų ratas|12
+liepa-audio-00477.npy|liepa-mel-00477.npy|123648|﻿tai buvo kapinynas kuriame buvo laidojami kai kurių to meto bendruomenėje svarbių giminių žmonės|12
+liepa-audio-00478.npy|liepa-mel-00478.npy|90880|﻿archeologai ištyrė šešiasdešimt trijų kremuotų žmonių kaulus|12
+liepa-audio-00479.npy|liepa-mel-00479.npy|143616|﻿nustatyta _pauze kad jie turėjo būti palaidoti šioje vietoje prieš maždaug tris tūkstančius metų prieš Kristų|12
+liepa-audio-00480.npy|liepa-mel-00480.npy|108288|﻿paskutinieji tyrimai rodo _ikvepimas jog Stounhendžą labiau vertėtų traktuoti kaip šventyklą|12
+liepa-audio-00481.npy|liepa-mel-00481.npy|156416|﻿netoli šio istorinio paminklo rastos neolito laikų stovyklavietės _ikvepimas archeologiniai tyrinėjimai rodo štai ką|12
+liepa-audio-00482.npy|liepa-mel-00482.npy|173312|﻿į šią vietovę žiemos ir vasaros saulėgrįžų metu _ikvepimas kartu su savo šeimomis ir gyvulių bandomis suplaukdavo būriai žmonių|12
+liepa-audio-00483.npy|liepa-mel-00483.npy|150784|﻿atvykę iš labai tolimų salos kampelių tokių kaip Škotija _ikvepimas jie čia rengdavo didžiules šventes ir ritualines apeigas|12
+liepa-audio-00484.npy|liepa-mel-00484.npy|89344|﻿mokslininkai mano kad Stounhendžo statytojai čia rinkdavosi sezoniškai|12
+liepa-audio-00485.npy|liepa-mel-00485.npy|86272|﻿tai truko gana neilgai  maždaug kokį gerą dešimtmetį|12
+liepa-audio-00486.npy|liepa-mel-00486.npy|178432|﻿paminklo statybos darbai nutrūko maždaug tuo laikotarpiu kai iš Europos kontinento į Britų salas plūstelėjo vadinamieji Bykerio žmonės |12
+liepa-audio-00487.npy|liepa-mel-00487.npy|138496|﻿tokią pravardę jie gavo dėl savosios originalumu pasižyminčios keramikos dirbinių|12
+liepa-audio-00488.npy|liepa-mel-00488.npy|114432|﻿nors Egipto piramidės yra lankomiausia turistų vieta _pauze jas vis dar gaubia paslapčių ir mistikos šydas|15
+liepa-audio-00489.npy|liepa-mel-00489.npy|116480|﻿pirmoji _pauze Egipto piramidė buo pastatyta _pauze apie du tūkstančiai šešiazdešimtuosius metus prieš mūsų erą|15
+liepa-audio-00490.npy|liepa-mel-00490.npy|68352|﻿didžiausioji piramidė Cheopso _pauze iškilo per dvidešimtmetį|15
+liepa-audio-00491.npy|liepa-mel-00491.npy|164608|﻿įdomu tai kad didžiausios piramidės savininkas _ikvepimas taip pat yra pavaizduotas atrastoje mažiausioje Egypto karališkojoje skulptūrėlėje|15
+liepa-audio-00492.npy|liepa-mel-00492.npy|56064|﻿jos aukštis siekia vos septynis su puse centimetro|15
+liepa-audio-00493.npy|liepa-mel-00493.npy|76032|﻿Egipto piramidės buvo statomos kaip kapai karaliams ir karalienėms|15
+liepa-audio-00494.npy|liepa-mel-00494.npy|62208|﻿valdovui mirus jo kūnas buvo mumifikuojamas|15
+liepa-audio-00495.npy|liepa-mel-00495.npy|143616|﻿piramidė kurios viduje buvo saugoma mumija _pauze tarnavo kaip vieta _pauze padedanti karaliui įžengti į pomirtinį gyvenimą|15
+liepa-audio-00496.npy|liepa-mel-00496.npy|67328|﻿šalia piramidžių šventikai atlikdavo specialius ritualus|15
+liepa-audio-00497.npy|liepa-mel-00497.npy|111872|﻿taip jie pagerbdavo mirusio monarcho sielą _pauze kuri kaip buvo tikima ligdavo kūne ir po mirties|15
+liepa-audio-00498.npy|liepa-mel-00498.npy|142080|﻿menininkai ant piramidžių vidaus sienų hieroglifais aprašydavo kaip jų valdovas keliauja į pomirtinę _pauze karalystę|15
+liepa-audio-00499.npy|liepa-mel-00499.npy|139008|﻿šiuos užrašus sudaro himnai magiški burtažodžiai _pauze instrukcijos kaip elgtis dievų akivaizdoje ir kiti naudingi patarimai|15
+liepa-audio-00500.npy|liepa-mel-00500.npy|60160|﻿apie piramidžių statymo procesą sukurta daug teorijų|15
+liepa-audio-00501.npy|liepa-mel-00501.npy|64512|﻿tačiau iš tiesų niekas tiksliai nežino kaip tai buvo daroma|15
+liepa-audio-00502.npy|liepa-mel-00502.npy|81152|﻿ši paslaptis nemažai prisideda _pauze prie didžiųjų statinių mistifikavimo|15
+liepa-audio-00503.npy|liepa-mel-00503.npy|139520|﻿net pasitelkus šiuolaikinę techniką ir naujausius mokslinius išradimus _pauze tokios piramidės statyba būtų nelengvas darbas|15
+liepa-audio-00504.npy|liepa-mel-00504.npy|116992|﻿kai kurie paslapčių mėgėjai piramidžių statybos autorystę linkę priskirti nežemiškos kilmės būtybėms|15
+liepa-audio-00505.npy|liepa-mel-00505.npy|139520|﻿viena žemiškesnių teorijų teigia kad masyvūs akmenų luitai ant kitų luitų buvo užtemti nuožulniomis plokštumomis|15
+liepa-audio-00506.npy|liepa-mel-00506.npy|100096|﻿šia hipotezę patvirtina kai kurios galimų plokštumų dalys _pauze rastos prie statybviečių|15
+liepa-audio-00507.npy|liepa-mel-00507.npy|113920|﻿akmenys statyboms buvo gabenami iš tolimų kasyklų _ikvepimas tempiant juos ant medinių rogių|15
+liepa-audio-00508.npy|liepa-mel-00508.npy|123648|﻿ratas tais laikais dar nebuvo išrastas _ikvepimas taigi statybinių medžiagų paprasčiausiai nebuvo galimybės atsivežti|15
+liepa-audio-00509.npy|liepa-mel-00509.npy|71936|﻿Cheopso piramidei pastatyti prireikė apie dviejų milijonų blokų|15
+liepa-audio-00510.npy|liepa-mel-00510.npy|53504|﻿kiekvienaz blokas sveria apie dvi su puse tonos|15
+liepa-audio-00511.npy|liepa-mel-00511.npy|59392|﻿o kai kurių blokų svoris siekia net šešiolika tonų|15
+liepa-audio-00512.npy|liepa-mel-00512.npy|52736|﻿įprasta manyti kad piramides statė vergai|15
+liepa-audio-00513.npy|liepa-mel-00513.npy|121600|﻿tačiau egiptologai teigia kad šioms statyboms buo pasitelkta daug dešimčių tūkstančių patyrusių darbininkų|15
+liepa-audio-00514.npy|liepa-mel-00514.npy|73472|﻿pirmosios piramidės buvo naudojamos kaip karališkosios šeimos kapai|15
+liepa-audio-00515.npy|liepa-mel-00515.npy|62208|﻿vėliau imta statyti atskiras piramides faraonams|15
+liepa-audio-00516.npy|liepa-mel-00516.npy|140032|﻿šalia jų _pauze paprastai į pietus arba į rytus nuo pagrindinių piramidžių _pauze mažesnes piramides karalienėms ir princesėms|15
+liepa-audio-00517.npy|liepa-mel-00517.npy|100096|﻿vyravo tradicija kat faraonas savo piramidę imdavo statytis kai įžengdavo į sostą|15
+liepa-audio-00518.npy|liepa-mel-00518.npy|91904|﻿tai nenuostabu nes piramidės statyboz dažnai trukdavo visą jo valdymo laikotarpį|15
+liepa-audio-00519.npy|liepa-mel-00519.npy|99072|﻿įdomu tai kad niekuomet nė vienoje Egipto piramidėje nebuvo rasta nė viena mumija|15
+liepa-audio-00520.npy|liepa-mel-00520.npy|61184|﻿joz buvo atkasamos iš karalių slėnių _pauze kapaviečių|15
+liepa-audio-00521.npy|liepa-mel-00521.npy|73216|﻿sukurta aibė legendų apie dešimties tūkstančių li sieną |15
+liepa-audio-00522.npy|liepa-mel-00522.npy|43264|﻿taip kinai vadina savo didžiąją sieną|15
+liepa-audio-00523.npy|liepa-mel-00523.npy|83712|﻿ir teigia Kinijos kaip plačios paslaptingos ir uždaros šalies vaizdinį|15
+liepa-audio-00524.npy|liepa-mel-00524.npy|51456|﻿jos mastui nėra lygių žmonijos istorijoje|15
+liepa-audio-00525.npy|liepa-mel-00525.npy|94464|﻿ji driekiasi apie du tūkstančius septynis šimtus kilometrų matuojant tiesia|15
+liepa-audio-00526.npy|liepa-mel-00526.npy|130304|﻿bet tikrasis jos ilgis įskaičiavus dvigubus trigubus ruožus ir kilpas perėjose _pauze yra bent dvigubai didesnis|15
+liepa-audio-00527.npy|liepa-mel-00527.npy|110848|﻿išliko dvidešim tūkstančių bokštų ir dešim tūkstančių atskirų sargybos arba signalinių bokštų|15
+liepa-audio-00528.npy|liepa-mel-00528.npy|119040|﻿iš visų akmenų bei plytų būtų galima pastatyti vieno metro storio ir penkių metrų aukščio sieną|15
+liepa-audio-00529.npy|liepa-mel-00529.npy|46848|﻿ji dešimt kartų juostų Žemės rutulį|15
+liepa-audio-00530.npy|liepa-mel-00530.npy|91904|﻿tačiau iš tikrųjų didžioji siena yra daugelio _pauze ilgų sienų bendras pavadinimas|15
+liepa-audio-00531.npy|liepa-mel-00531.npy|66816|﻿iš pat pradžių toji siena reiškė daugiau negu vien gynybą|15
+liepa-audio-00532.npy|liepa-mel-00532.npy|38656|﻿ji žymėjo civilizacijos ribas|15
+liepa-audio-00533.npy|liepa-mel-00533.npy|60416|﻿kinų požiūris į sieną yra toks pat kaip ir į miestą|15
+liepa-audio-00534.npy|liepa-mel-00534.npy|154880|﻿siena ženklino administracinį vienetą _pauze atskiriantį organizuotą žemdirbišką kinų pasaulį nuo netvarkingo stepių klajoklių barbarizmo|15
+liepa-audio-00535.npy|liepa-mel-00535.npy|73984|﻿įeiti per sieną reiškė įžengti į žinomą civilizuotą pasaulį|15
+liepa-audio-00536.npy|liepa-mel-00536.npy|83712|﻿pirmasis imperatorius įsakė sujungti ir išplėsti virtinę esamų sienų|15
+liepa-audio-00537.npy|liepa-mel-00537.npy|71936|﻿ir tai padaryti ištisinę užtvarą nuo plėšikaujančių genčių|15
+liepa-audio-00538.npy|liepa-mel-00538.npy|72448|﻿į darbą buvo pašaukta daugiau kaip trys šimtai tūkstančių vyrų|15
+liepa-audio-00539.npy|liepa-mel-00539.npy|139520|﻿dirbta kalnų arba dykumų rajonuose _pauze nepaprastame šaltyje arba karštyje _ikvepimas be pakankamo maisto ir pastogės|15
+liepa-audio-00540.npy|liepa-mel-00540.npy|97536|﻿rašoma kad kiekvienas pastatytas sienos metras pareikalavo vieno žmogaus gyvybės|15
+liepa-audio-00541.npy|liepa-mel-00541.npy|100608|﻿nuo tada sienos būklė _pauze atspindėjo Kinijos galią ir požiūrį į klajoklius kaimynus|15
+liepa-audio-00542.npy|liepa-mel-00542.npy|92928|﻿taikingo sugyvenimo laikotarpiais siena būdavo apleidžiama ir neremontuojama|15
+liepa-audio-00543.npy|liepa-mel-00543.npy|81920|﻿o kai Kinijos kaimynai būdavo stiprūs ir priešiški _pauze sieną atstatydavo|15
+liepa-audio-00544.npy|liepa-mel-00544.npy|83456|﻿didumą sienos _pauze kuria matome šiandien _pauze pastatydino Mingų dinastija|15
+liepa-audio-00545.npy|liepa-mel-00545.npy|119040|﻿tai tarp kalnų keterų vingiuojantis šešių metrų pločio ties pamatais ir devynių metrų aukščio mūras|15
+liepa-audio-00546.npy|liepa-mel-00546.npy|133632|﻿viršutinę jo dalį _pauze ižgrįstą keturiais plytų sluoksniais iš išorės juosia aukšta dantyta gynybinė sienelė|15
+liepa-audio-00547.npy|liepa-mel-00547.npy|28928|﻿iš vidaus parapetas |15
+liepa-audio-00548.npy|liepa-mel-00548.npy|88832|﻿siena pakankamai plati _pauze kad galėtų jos viršumi greta joti penki raiteliai|15
+liepa-audio-00549.npy|liepa-mel-00549.npy|88832|﻿perėjose ir slėniuose gynybai sustiprinti buvo statomos papildomos sienos|15
+liepa-audio-00550.npy|liepa-mel-00550.npy|76544|﻿kas septyniasdešimt metrų įrengti stebėjimo bokštai turėjo laiptus|15
+liepa-audio-00551.npy|liepa-mel-00551.npy|69888|﻿vienodais atstumais stovėjo rampos arkliams ant sienos užkopti|15
+liepa-audio-00552.npy|liepa-mel-00552.npy|129792|﻿be to buvo pastatyti papildomi dešim tūkstančių signalinių švyturių greitam žinių perdavimui išilgai sienos|15
+liepa-audio-00553.npy|liepa-mel-00553.npy|71424|﻿dieną žinią perduodavo dūmų _pauze naktį ugnies signalais|15
+liepa-audio-00554.npy|liepa-mel-00554.npy|137472|﻿septintame amžiuje buvo reikalaujama kad signalas tūkstančio kilometrų atstumą nukeliautų per dvidešimt keturias valandas|15
+liepa-audio-00555.npy|liepa-mel-00555.npy|54016|﻿puolančiųjų pajėgų dydį parodydavo signalo dydis|15
+liepa-audio-00556.npy|liepa-mel-00556.npy|136960|﻿nors Egipto piramidės yra lankomiausia turistų vieta _pauze jas vis dar gaubia paslapčių ir mistikos šydas|17
+liepa-audio-00557.npy|liepa-mel-00557.npy|121600|﻿pirmoji Egipto piramidė buvo pastatyta apie du tūkstančiai šešiasdešimtuosius metus prieš mūsų erą|17
+liepa-audio-00558.npy|liepa-mel-00558.npy|80640|﻿didžiausioji piramidė Cheopso _pauze iškilo per dvidešimtmetį|17
+liepa-audio-00559.npy|liepa-mel-00559.npy|184576|﻿įdomu tai kad didžiausios piramidės savininkas taip pat yra pavaizduotas atrastoje mažiausioje _pauze Egipto karališkojoje skulptūrėlėje|17
+liepa-audio-00560.npy|liepa-mel-00560.npy|62208|﻿jos aukštis siekia vos septynis su puse centimetro|17
+liepa-audio-00561.npy|liepa-mel-00561.npy|84224|﻿Egipto piramidės buvo statomos kaip kapai karaliams ir karalienėms|17
+liepa-audio-00562.npy|liepa-mel-00562.npy|63744|﻿valdovui mirus _ikvepimas jo kūnas buvo mumifikuojama|17
+liepa-audio-00563.npy|liepa-mel-00563.npy|163072|﻿piramidė kurios viduje buvo saugoma mumija _pauze tarnavo kaip vieta _pauze padedanti karaliui įžengti į pomirtinį gyvenim|17
+liepa-audio-00564.npy|liepa-mel-00564.npy|69888|﻿šalia piramidžių šventikai atlikdavo specialius ritualus|17
+liepa-audio-00565.npy|liepa-mel-00565.npy|129792|﻿taip jie pagerbdavo mirusio monarcho sielą _pauze kuri kaip buvo tikima _pauze likdavo kūne ir po mirties|17
+liepa-audio-00566.npy|liepa-mel-00566.npy|153344|﻿menininkai ant piramidžių vidaus sienų hieroglifais aprašydavo _ikvepimas kaip jų valdovas keliauja į pomirtinę karalystę|17
+liepa-audio-00567.npy|liepa-mel-00567.npy|176384|﻿šiuos užrašus sudaro himnai _pauze magiški burtažodžiai _pauze instrukcijos kaip elgtis dievų akivaizdoje _ikvepimas ir kiti naudingi patarimai|17
+liepa-audio-00568.npy|liepa-mel-00568.npy|71424|﻿apie piramidžių statymo procesą sukurta daug teorijų|17
+liepa-audio-00569.npy|liepa-mel-00569.npy|68352|﻿tačiau iš tiesų niekas tisliai nežino kaip tai buvo daroma|17
+liepa-audio-00570.npy|liepa-mel-00570.npy|86272|﻿ši paslaptis nemažai prisideda prie didžiųjų statinių mistifikavimo|17
+liepa-audio-00571.npy|liepa-mel-00571.npy|152832|﻿net ir pasitelkus šiuolaikinę techniką ir naujausius mokslinius išradimus _ikvepimas tokios piramidės statyba būtų nelengvas darbas|17
+liepa-audio-00572.npy|liepa-mel-00572.npy|134912|﻿kai kurie paslapčių mėgėjai piramidžių statybos autorystę _ikvepimas linkę priskirti nežemiškos kilmės būtybėms|17
+liepa-audio-00573.npy|liepa-mel-00573.npy|164608|﻿viena žemiškesnių teorijų teigia _ikvepimas kad masyvūs akmenų luitai ant kitų luitų buvo užtemti nuožulniomis plokštumomis|17
+liepa-audio-00574.npy|liepa-mel-00574.npy|106240|﻿šią hipotezę patvirtina kai kurios galimų plokštumų dalys rastos prie statybviečių|17
+liepa-audio-00575.npy|liepa-mel-00575.npy|108288|﻿akmenys statyboms buvo gamenami iš tolimų kasyklų _ikvepimas tempiant juos ant medinių rogių|17
+liepa-audio-00576.npy|liepa-mel-00576.npy|136448|﻿ratas tais laikais dar nebuvo išrastas _pauze taigi statybinių medžiagų paprasčiausiai nebuvo galimybės atsivežti|17
+liepa-audio-00577.npy|liepa-mel-00577.npy|80640|﻿Cheopso piramidei pastatyti prireikė apie dviejų milijonų blokų|17
+liepa-audio-00578.npy|liepa-mel-00578.npy|55040|﻿kiekvienas blokas sveria apie dvi su puse tonos|17
+liepa-audio-00579.npy|liepa-mel-00579.npy|66304|﻿o kai kurių blokų svoris siekia net šešiolika tonų|17
+liepa-audio-00580.npy|liepa-mel-00580.npy|54528|﻿įprasta manyti kad piramides statė vergai|17
+liepa-audio-00581.npy|liepa-mel-00581.npy|142080|﻿tačiau egiptologai teigia _ikvepimas kad šioms statyboms buo pasitelkta daug dešimčių tūkstančių patyrusių darbininkų|17
+liepa-audio-00582.npy|liepa-mel-00582.npy|84224|﻿pirmosios piramidės buvo naudojamos kaip karališkosios šeimos kapai|17
+liepa-audio-00583.npy|liepa-mel-00583.npy|59136|﻿vėliau imta statyti atskiras piramides faraonams|17
+liepa-audio-00584.npy|liepa-mel-00584.npy|149248|﻿šalia jų _ikvepimas paprastai į pietus arba į rytus nuo pagrindinių piramidžių _tyla mažesnes piramides karalienėms ir princesėms|17
+liepa-audio-00585.npy|liepa-mel-00585.npy|110336|﻿vyravo tradicija kad faraonas savo piramidę imdavo statytis kai įžengdavo į sostą|17
+liepa-audio-00586.npy|liepa-mel-00586.npy|111360|﻿tai nenuostabu _pauze nes piramidės statybos dažnai trukdavo visą jo valdymo laikotarpį|17
+liepa-audio-00587.npy|liepa-mel-00587.npy|108288|﻿įdomu tai _ikvepimas kad niekuomet nė vienoje Egipto piramidėje nebuvo rasta nei viena mumija|17
+liepa-audio-00588.npy|liepa-mel-00588.npy|61184|﻿jos buvo atkasamos iš karalių slėnio kapaviečių|17
+liepa-audio-00589.npy|liepa-mel-00589.npy|79104|﻿sukurta aibė legendų apie dešimties tūkstančių li sieną |17
+liepa-audio-00590.npy|liepa-mel-00590.npy|45824|﻿taip kinai vadina savo didžiąją sieną|17
+liepa-audio-00591.npy|liepa-mel-00591.npy|93440|﻿ji vadinama vieninteliu žmogaus sukurtu objektu _ikvepimas matomu iš mėnulio|17
+liepa-audio-00592.npy|liepa-mel-00592.npy|94464|﻿ir teigia Kinijos _pauze kaip plačios paslaptingos _pauze ir uždaros šalies vaizdinį|17
+liepa-audio-00593.npy|liepa-mel-00593.npy|57088|﻿jos mastui nėra lygių žmonijos istorjoje|17
+liepa-audio-00594.npy|liepa-mel-00594.npy|105728|﻿ji driekiasi apie du tūkstančius septynis šimtus kilometrų _pauze matuojant tiesia linija|17
+liepa-audio-00595.npy|liepa-mel-00595.npy|158976|﻿bet tikrasis jos ilgis įskaičiavus dvigubus trigubus ruožus _ikvepimas ir kilpas perėjose _pauze yra bent dvigubai didesnis|17
+liepa-audio-00596.npy|liepa-mel-00596.npy|127232|﻿išliko dvidešimt tūkstančių bokštų ir dešimt tūkstančių atskirų sargybos arba signalinių bokštų|17
+liepa-audio-00597.npy|liepa-mel-00597.npy|133888|﻿iš visų akmenų bei plytų būtų galima pastatyti vieno metro storio _ikvepimas ir penkių metrų aukščio sieną|17
+liepa-audio-00598.npy|liepa-mel-00598.npy|49408|﻿ji dešim kartų juostų Žemės rutulį|17
+liepa-audio-00599.npy|liepa-mel-00599.npy|89344|﻿tačiau iš tikrųjų didžioji siena yra daugelio ilgų sienų bendras pavadinima|17
+liepa-audio-00600.npy|liepa-mel-00600.npy|65792|﻿iš pat pradžių toji siena reiškė daugiau nei vien gynybą|17
+liepa-audio-00601.npy|liepa-mel-00601.npy|40704|﻿ji žymėjo civilizacijos ribas|17
+liepa-audio-00602.npy|liepa-mel-00602.npy|56064|﻿kinų požiūris į sieną yra toks pats kaip ir į miestą|17
+liepa-audio-00603.npy|liepa-mel-00603.npy|194816|﻿siena ženklino administracinį vienetą _pauze atskiriantį organizuotą žemdirbišką kinų pasaulį _ikvepimas nuo netvarkingo stepių klajoklių barbarizmo|17
+liepa-audio-00604.npy|liepa-mel-00604.npy|81152|﻿įeiti per sieną reiškė įžengti į žinomą civilizuotą pasaulį|17
+liepa-audio-00605.npy|liepa-mel-00605.npy|89344|﻿pirmasis imperatorius įsakė sujungti ir išplėsti virtinę esamų sienų|17
+liepa-audio-00606.npy|liepa-mel-00606.npy|75008|﻿ir taip padaryti ištisinę užtvarą nuo plėšikaujančių genčių|17
+liepa-audio-00607.npy|liepa-mel-00607.npy|73984|﻿į darbą buvo pašaukta daugiau kaip trys šimtai tūkstančių vyrų|17
+liepa-audio-00608.npy|liepa-mel-00608.npy|148224|﻿dirbta kalnų ir dykumų rajonuose _ikvepimas nepaprastame šaltyje arba karštyje _ikvepimas be pakankamo maisto ir pastogės|17
+liepa-audio-00609.npy|liepa-mel-00609.npy|108288|﻿rašoma _pauze kad kiekvienas pastatytas sienos metras pareikalavo vieno žmogaus gyvybės|17
+liepa-audio-00610.npy|liepa-mel-00610.npy|91904|﻿nuo tada sienos būklė atspindėjo Kinijos galią ir požiūrį į klajoklius kaimynus|17
+liepa-audio-00611.npy|liepa-mel-00611.npy|94464|﻿taikingo sugyvenimo laikotarpiais siena būdavo apleidžiama ir neremontuojama|17
+liepa-audio-00612.npy|liepa-mel-00612.npy|94976|﻿o kai Kinijos kaimynai būdavo stiprūs ir priešiški _pauze sieną atstatydavo|17
+liepa-audio-00613.npy|liepa-mel-00613.npy|89856|﻿didumą sienos kurią matome šiandien _ikvepimas pastatydino Mingų dinastija|17
+liepa-audio-00614.npy|liepa-mel-00614.npy|124672|﻿tai tap kalnų keterų vingiuojantis šešių metrų pločio ties pamatais ir devynių metrų aukščio mūras|17
+liepa-audio-00615.npy|liepa-mel-00615.npy|152832|﻿viršutinę jo dalį _ikvepimas išgrįstą keturiais plytų sluoksniais _tyla iš išorės juosia aukšta dantyta gynybinė sienelė|17
+liepa-audio-00616.npy|liepa-mel-00616.npy|28416|﻿iš vidaus parapetas |17
+liepa-audio-00617.npy|liepa-mel-00617.npy|97536|﻿siena pakankamai plati _pauze kad galėtų jos viršumi greta joti penki raiteliai|17
+liepa-audio-00618.npy|liepa-mel-00618.npy|96512|﻿perėjose ir slėniuose gynybai sustiprinti buvo statomos papildomos sienos|17
+liepa-audio-00619.npy|liepa-mel-00619.npy|79616|﻿kas septyniasdešim metrų įrengti stebėjimo bokštai turėjo laiptus|17
+liepa-audio-00620.npy|liepa-mel-00620.npy|78080|﻿vienodais atstumais stovėjo rampos arkliams ant sienos užkopti|17
+liepa-audio-00621.npy|liepa-mel-00621.npy|157440|﻿be to _pauze buvo pastatyti papildomi dešim tūkstančių signalinių švyturių _ikvepimas greitam žinių perdavimui išilgai sienos|17
+liepa-audio-00622.npy|liepa-mel-00622.npy|85248|﻿dieną žinią perduodavo dūmų _pauze naktį ugnies signalais|17
+liepa-audio-00623.npy|liepa-mel-00623.npy|161536|﻿septintajame amžiuje buvo reikalaujama _ikvepimas kad signalas tūkstančio kelometrų atstumą nukeliautų per dvidešimt keturias valandas|17
+liepa-audio-00624.npy|liepa-mel-00624.npy|63232|﻿puolančiųjų pajėgų dydį parodydavo signalo dydis|17
