@@ -5,6 +5,12 @@
 - [Docker](docker.md)
 - [Training and Evaluation](training.md)
 
+### Customisations
+
+- [presets](experiment/liepa_2008.05.11/presets/liepa_multi.json)
+- [datasets](experiment/liepa_2008.05.11/datasets/liepa.py)
+- [preprocessor](experiment/liepa_2008.05.11/liepa_multi.py)
+
 ### Experiment evaluation results
 
 Following utterances are generated using `evaluate.py` script. First raw represents ''predicted'' utternace and the second is ''ground truth/target''.
