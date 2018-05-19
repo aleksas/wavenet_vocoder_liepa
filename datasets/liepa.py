@@ -46,8 +46,8 @@ available_speakers = [
     "D288", "D272", "D289", "D290", "D282", "D280", "D269", "D268", "D277", "D308",
     "D291", "D292"]
 
-available_speakers = [
-    "D151", "D150", "D36", "D52", "D54", "D305", "D304"]
+#available_speakers = [
+#    "D151", "D150", "D36", "D52", "D54", "D305", "D304"]
 
 
 def get_sentence_subdirectories(a_dir):
