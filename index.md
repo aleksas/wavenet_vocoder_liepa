@@ -13,7 +13,7 @@
 
 ### Experiment evaluation results
 
-Following utterances are generated using `evaluate.py` script. First raw represents **predicted** utternace and the second is **ground truth | target**.
+Following utterances are generated using `evaluate.py` script. First raw represents **predicted** utternace and the second is **ground truth** | **target**.
 
 Speaker 7 utterance 0
 - <audio controls="controls" ><source src="/wavenet_vocoder_liepa/experiment/liepa_2008.05.11/audio/speaker7_0_checkpoint_step000590000_ema_predicted.wav" autoplay/>Your browser does not support the audio element.</audio>
