@@ -53,8 +53,11 @@ def build_from_path(in_dir, out_dir, num_workers=1, tqdm=lambda x: x):
                 tr_file = file.replace('.wav','.txt')
                 tr_path = os.path.join(root, tr_file)
                 wav_path = os.path.join(root, file)
+                
+                rawdata = None
+                with open(tr_path, 'rb') as f:
+                    rawdata = f.read()
 
-                rawdata = open(tr_path, 'rb').read()
                 result = chardet.detect(rawdata)
                 charenc = result['encoding']
 
