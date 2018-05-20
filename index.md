@@ -4,7 +4,7 @@
 
 - [Docker](docker.md)
 - [Hardware](hardware.md)
-- [Training and Evaluation](training.md)
+- [Training, Evaluation, Fine tuning](training.md)
 
 ### Customizations
 
