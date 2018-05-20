@@ -3,6 +3,7 @@
 ### Environment
 
 - [Docker](docker.md)
+- [Hardware](hardware.md)
 - [Training and Evaluation](training.md)
 
 ### Customizations
@@ -48,7 +49,7 @@ Speaker 1 utterance 23
 - <audio controls="controls" ><source src="/wavenet_vocoder_liepa/experiment/liepa_2008.05.11/audio/speaker1_23_checkpoint_step000590000_ema_target.wav" autoplay/>Your browser does not support the audio element.</audio>
 
 ### Speakers
-The speaker indeces correspond to speked directories in Liepa database in order specified in [dataset](experiment/liepa_2008.05.11/datasets/liepa.py) (See var. available_speakers). Notice that only speakers with sentence utterances were considered.
+The speaker indeces correspond to speker directories in Liepa database in order specified in [dataset](experiment/liepa_2008.05.11/datasets/liepa.py) (See var. available_speakers). Notice that only speakers with sentence utterances were considered.
 
 - 1: D150
 - 2: D36
