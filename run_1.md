@@ -1,14 +1,4 @@
-### Environment
-
-- [Docker](docker.md)
-- [Hardware](hardware.md)
-- [Training, Evaluation, Fine tuning](training.md)
-
-### Customizations
-
-- [presets](experiment/liepa_2008.05.11/presets/liepa_multi.json)
-- [datasets](experiment/liepa_2008.05.11/datasets/liepa.py)
-- [preprocessor](experiment/liepa_2008.05.11/liepa_multi.py)
+**Fine tune** [run 0](run_0.md) with same data same settings.
 
 ### Experiment evaluation results
 
@@ -58,7 +48,3 @@ The speaker indeces correspond to speker directories in Liepa database in order 
 - 12: D17
 - 15: D56
 - 17: D79
-
-## Archive
-- [run 0](run_0.md) (run-test2018-05-10_21:48:08.581161)
-- [run 1](run_1.md) (run-test2018-05-19_15:56:06.456534)
