@@ -1,5 +1,3 @@
-## liepa_2008.05.11
-
 ### Environment
 
 - [Docker](docker.md)
@@ -62,4 +60,4 @@ The speaker indeces correspond to speker directories in Liepa database in order 
 - 17: D79
 
 ## Archive
-- [run 0](setup_0.md) (TF run-test2018-05-10_21:48:08.581161)
+- [run 0](run_0.md) (TF run-test2018-05-10_21:48:08.581161)
