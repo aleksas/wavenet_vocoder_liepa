@@ -60,4 +60,5 @@ The speaker indeces correspond to speker directories in Liepa database in order 
 - 17: D79
 
 ## Archive
-- [run 0](run_0.md) (TF run-test2018-05-10_21:48:08.581161)
+- [run 0](run_0.md) (run-test2018-05-10_21:48:08.581161)
+- [run 1](run_1.md) (run-test2018-05-19_15:56:06.456534)
