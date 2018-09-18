@@ -64,3 +64,4 @@ The speaker indeces correspond to speker directories in Liepa database in order 
 - [run 1](run_1.md) (run-test2018-05-19_15:56:06.456534)
 - [run 4](run_4.md) (run-test2018-05-05_22:00:00.000000)
 - [taco wave 0](taco_wave_0.md) (Tacotron-2 + Wavenet)
+- [taco wave 1](taco_wave_1.md) (Tacotron-2 + Wavenet)
