@@ -37,6 +37,12 @@ Fixed problems from [2018.09.17 Tacotron 2 + Wavenet](taco_wave_0.md)
 - <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.18/taco_40k_wave_360k/2.wav" autoplay/>Your browser does not support the audio element\.</audio>
 
 
+## Taco 75000, Wave 360000
+
+- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.19/taco_75k_wave_360k/0.wav" autoplay/>Your browser does not support the audio element\.</audio>
+- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.19/taco_75k_wave_360k/1.wav" autoplay/>Your browser does not support the audio element\.</audio>
+- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.19/taco_75k_wave_360k/2.wav" autoplay/>Your browser does not support the audio element\.</audio>
+
 # Voice mix test
 
 Verifyt that mixing taco and wave models trained on different voices doesn't work.
