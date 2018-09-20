@@ -50,6 +50,15 @@ Fixed problems from [2018.09.17 Tacotron 2 + Wavenet](taco_wave_0.md)
 - <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.19/taco_85k_wave_360k/1.wav" autoplay/>Your browser does not support the audio element\.</audio>
 - <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.19/taco_85k_wave_360k/2.wav" autoplay/>Your browser does not support the audio element\.</audio>
 
+(37:23) EUROPOS SĄJUNGOS PAGRINDINIŲ TEISIŲ CHARTIJA
+- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.19/taco_85k_wave_360k/3.wav" autoplay/>Your browser does not support the audio element\.</audio>
+
+(2:08:47) Europos tautos, kurdamos dar glaudesnę tarpusavio sąjungą, yra pasiryžusios bendrų vertybių pagrindu siekti taikios ateities.
+- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.19/taco_85k_wave_360k/4.wav" autoplay/>Your browser does not support the audio element\.</audio>
+
+(6:58:09) Ištikima savo dvasiniam ir doroviniam paveldui Sąjunga remiasi nedalomomis ir visuotinėmis vertybėmis: žmogaus orumu, laisve, lygybe ir solidarumu; ji grindžiama demokratijos ir teisinės valstybės principais. Įkurdama Sąjungos pilietybę ir plėtodama laisvės, saugumo ir teisingumo erdvę, Sąjunga daugiausia dėmesio savo veikloje skiria žmogui.
+- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.19/taco_85k_wave_360k/5.wav" autoplay/>Your browser does not support the audio element\.</audio>
+
 # Voice mix test
 
 Verifyt that mixing taco and wave models trained on different voices doesn't work.
