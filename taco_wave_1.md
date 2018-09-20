@@ -59,6 +59,12 @@ Fixed problems from [2018.09.17 Tacotron 2 + Wavenet](taco_wave_0.md)
 (6:58:09) Ištikima savo dvasiniam ir doroviniam paveldui Sąjunga remiasi nedalomomis ir visuotinėmis vertybėmis: žmogaus orumu, laisve, lygybe ir solidarumu; ji grindžiama demokratijos ir teisinės valstybės principais. Įkurdama Sąjungos pilietybę ir plėtodama laisvės, saugumo ir teisingumo erdvę, Sąjunga daugiausia dėmesio savo veikloje skiria žmogui.
 - <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.19/taco_85k_wave_360k/5.wav" autoplay/>Your browser does not support the audio element\.</audio>
 
+## Taco 120000, Wave 360000
+
+- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.20/taco_100k_wave_360k/0.wav" autoplay/>Your browser does not support the audio element\.</audio>
+- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.20/taco_100k_wave_360k/1.wav" autoplay/>Your browser does not support the audio element\.</audio>
+- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.20/taco_100k_wave_360k/2.wav" autoplay/>Your browser does not support the audio element\.</audio>
+
 # Voice mix test
 
 Verifyt that mixing taco and wave models trained on different voices doesn't work.
