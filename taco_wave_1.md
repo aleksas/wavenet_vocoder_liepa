@@ -12,9 +12,9 @@ Fixed problems from [2018.09.17 Tacotron 2 + Wavenet](taco_wave_0.md)
 
 ## Sample utterances
 
-- <audio controls="controls" ><source src="./experiment/liepa_utteerances/0.wav" autoplay/>Your browser does not support the audio element\.</audio>
-- <audio controls="controls" ><source src="./experiment/liepa_utteerances/1.wav" autoplay/>Your browser does not support the audio element\.</audio>
-- <audio controls="controls" ><source src="./experiment/liepa_utteerances/2.wav" autoplay/>Your browser does not support the audio element\.</audio>
+- <audio controls="controls" ><source src="./experiment/original_utterances/Regina/0.wav" autoplay/>Your browser does not support the audio element\.</audio>
+- <audio controls="controls" ><source src="./experiment/original_utterances/Regina/1.wav" autoplay/>Your browser does not support the audio element\.</audio>
+- <audio controls="controls" ><source src="./experiment/original_utterances/Regina/2.wav" autoplay/>Your browser does not support the audio element\.</audio>
 
 # Latest experiment
 
