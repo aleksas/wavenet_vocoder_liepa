@@ -69,6 +69,10 @@ Fixed problems from [2018.09.17 Tacotron 2 + Wavenet](taco_wave_0.md)
 - <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.21/taco_120k_wave_360_200k/1.wav" autoplay/>Your browser does not support the audio element\.</audio>
 - <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.21/taco_120k_wave_360_200k/2.wav" autoplay/>Your browser does not support the audio element\.</audio>
 
+
+(37:25) EUROPOS SĄJUNGOS PAGRINDINIŲ TEISIŲ CHARTIJA
+- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.21/taco_120k_wave_360_200k/7.wav" autoplay/>Your browser does not support the audio element\.</audio>
+
 # Voice mix test
 
 Verify that mixing taco and wave models trained on different voices doesn't work.
@@ -78,6 +82,7 @@ Verify that mixing taco and wave models trained on different voices doesn't work
 - <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.18/taco_30k_wave_280k_voice_taco_Regina_wave_Aiste/0.wav" autoplay/>Your browser does not support the audio element\.</audio>
 - <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.18/taco_30k_wave_280k_voice_taco_Regina_wave_Aiste/1.wav" autoplay/>Your browser does not support the audio element\.</audio>
 - <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.18/taco_30k_wave_280k_voice_taco_Regina_wave_Aiste/2.wav" autoplay/>Your browser does not support the audio element\.</audio>
+
 
 # Punctuation test
 
