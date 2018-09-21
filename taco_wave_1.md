@@ -22,7 +22,6 @@ Fixed problems from [2018.09.17 Tacotron 2 + Wavenet](taco_wave_0.md)
 - <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.18/taco_20k_wave_280k/1.wav" autoplay/>Your browser does not support the audio element\.</audio>
 - <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.18/taco_20k_wave_280k/2.wav" autoplay/>Your browser does not support the audio element\.</audio>
 
-
 ## Taco 30000, Wave 280000
 
 - <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.18/taco_30k_wave_280k/0.wav" autoplay/>Your browser does not support the audio element\.</audio>
@@ -42,7 +41,6 @@ Fixed problems from [2018.09.17 Tacotron 2 + Wavenet](taco_wave_0.md)
 - <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.19/taco_75k_wave_360k/0.wav" autoplay/>Your browser does not support the audio element\.</audio>
 - <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.19/taco_75k_wave_360k/1.wav" autoplay/>Your browser does not support the audio element\.</audio>
 - <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.19/taco_75k_wave_360k/2.wav" autoplay/>Your browser does not support the audio element\.</audio>
-
 
 ## Taco 85000, Wave 360000
 
@@ -65,16 +63,15 @@ Fixed problems from [2018.09.17 Tacotron 2 + Wavenet](taco_wave_0.md)
 - <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.20/taco_100k_wave_360k/1.wav" autoplay/>Your browser does not support the audio element\.</audio>
 - <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.20/taco_100k_wave_360k/2.wav" autoplay/>Your browser does not support the audio element\.</audio>
 
-## Taco 120000, Wave 360000
+## Taco 120000, Wave 360000 + 200000 (Fine tuned)
 
-- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.20/taco_120k_wave_360k/0.wav" autoplay/>Your browser does not support the audio element\.</audio>
-- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.20/taco_120k_wave_360k/1.wav" autoplay/>Your browser does not support the audio element\.</audio>
-- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.20/taco_120k_wave_360k/2.wav" autoplay/>Your browser does not support the audio element\.</audio>
-
+- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.21/taco_120k_wave_360_200k/0.wav" autoplay/>Your browser does not support the audio element\.</audio>
+- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.21/taco_120k_wave_360_200k/1.wav" autoplay/>Your browser does not support the audio element\.</audio>
+- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.21/taco_120k_wave_360_200k/2.wav" autoplay/>Your browser does not support the audio element\.</audio>
 
 # Voice mix test
 
-Verifyt that mixing taco and wave models trained on different voices doesn't work.
+Verify that mixing taco and wave models trained on different voices doesn't work.
 
 ## Taco 30000, Wave 280000, Voice mix: Taco - Regina, Wave - Aiste
 
@@ -82,18 +79,25 @@ Verifyt that mixing taco and wave models trained on different voices doesn't wor
 - <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.18/taco_30k_wave_280k_voice_taco_Regina_wave_Aiste/1.wav" autoplay/>Your browser does not support the audio element\.</audio>
 - <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.18/taco_30k_wave_280k_voice_taco_Regina_wave_Aiste/2.wav" autoplay/>Your browser does not support the audio element\.</audio>
 
-
-# Punkctuation test
+# Punctuation test
 
 ## Question mark influence on intonation
+
+Kokia šiandien data?
+Kokia šiandien data
+Ar nori suvalgyti bandelę?
+Ar nori suvalgyti bandelę
+
+## Taco 100000, Wave 360000
 
 - <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.21/taco_120k_wave_360k/0.wav" autoplay/>Your browser does not support the audio element\.</audio>
 - <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.21/taco_120k_wave_360k/1.wav" autoplay/>Your browser does not support the audio element\.</audio>
 - <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.21/taco_120k_wave_360k/2.wav" autoplay/>Your browser does not support the audio element\.</audio>
 - <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.21/taco_120k_wave_360k/3.wav" autoplay/>Your browser does not support the audio element\.</audio>
-- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.21/taco_120k_wave_360k/4.wav" autoplay/>Your browser does not support the audio element\.</audio>
 
+## Taco 120000, Wave 360000 + 200000 (Fine tuned)
 
-
-
-
+- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.21/taco_120k_wave_360_200k/3.wav" autoplay/>Your browser does not support the audio element\.</audio>
+- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.21/taco_120k_wave_360_200k/4.wav" autoplay/>Your browser does not support the audio element\.</audio>
+- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.21/taco_120k_wave_360_200k/5.wav" autoplay/>Your browser does not support the audio element\.</audio>
+- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.21/taco_120k_wave_360_200k/6.wav" autoplay/>Your browser does not support the audio element\.</audio>
