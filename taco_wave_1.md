@@ -10,7 +10,7 @@ Fixed problems from [2018.09.17 Tacotron 2 + Wavenet](taco_wave_0.md)
 - Aš robotas iš ateities
 - Aš žinau jūsų likimą
 
-## Sample utterances
+## Sample utterances from train dataset
 
 - <audio controls="controls" ><source src="./experiment/original_utterances/Regina/0.wav" autoplay/>Your browser does not support the audio element\.</audio>
 - <audio controls="controls" ><source src="./experiment/original_utterances/Regina/1.wav" autoplay/>Your browser does not support the audio element\.</audio>
@@ -97,10 +97,10 @@ Verify that mixing taco and wave models trained on different voices doesn't work
 
 ## Question mark influence on intonation
 
-Kokia šiandien data?
-Kokia šiandien data
-Ar nori suvalgyti bandelę?
-Ar nori suvalgyti bandelę
+- Kokia šiandien data?
+- Kokia šiandien data
+- Ar nori suvalgyti bandelę?
+- Ar nori suvalgyti bandelę
 
 ## Taco 100000, Wave 360000
 
