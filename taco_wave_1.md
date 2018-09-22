@@ -4,17 +4,17 @@ Speaker 0 (Regina)
 
 Fixed problems from [2018.09.17 Tacotron 2 + Wavenet](taco_wave_0.md)
 
-## Text lines
-
-- Sveiki, draugai
-- Aš robotas iš ateities
-- Aš žinau jūsų likimą
-
 ## Sample utterances from train dataset
 
 - <audio controls="controls" ><source src="./experiment/original_utterances/Regina/0.wav" autoplay/>Your browser does not support the audio element\.</audio>
 - <audio controls="controls" ><source src="./experiment/original_utterances/Regina/1.wav" autoplay/>Your browser does not support the audio element\.</audio>
 - <audio controls="controls" ><source src="./experiment/original_utterances/Regina/2.wav" autoplay/>Your browser does not support the audio element\.</audio>
+
+## Text lines
+
+- Sveiki, draugai
+- Aš robotas iš ateities
+- Aš žinau jūsų likimą
 
 # Latest experiment
 
@@ -27,6 +27,10 @@ Fixed problems from [2018.09.17 Tacotron 2 + Wavenet](taco_wave_0.md)
 
 (37:25) EUROPOS SĄJUNGOS PAGRINDINIŲ TEISIŲ CHARTIJA
 - <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.21/taco_120k_wave_360_200k/7.wav" autoplay/>Your browser does not support the audio element\.</audio>
+
+
+Europos tautos, kurdamos dar glaudesnę tarpusavio sąjungą, yra pasiryžusios bendrų vertybių pagrindu siekti taikios ateities.
+- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.21/taco_120k_wave_360_200k/8.wav" autoplay/>Your browser does not support the audio element\.</audio>
 
 ## Synthesised with Liepa TTS engine
 
