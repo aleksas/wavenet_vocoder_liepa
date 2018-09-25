@@ -43,6 +43,9 @@ Europos tautos, kurdamos dar glaudesnę tarpusavio sąjungą, yra pasiryžusios 
 (43:44) EUROPOS SĄJUNGOS PAGRINDINIŲ TEISIŲ CHARTIJA
 - <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.25/taco_120k_wave_360_420k_Aiste/3.wav" autoplay/>Your browser does not support the audio element\.</audio>
 
+(2:27:24) Europos tautos, kurdamos dar glaudesnę tarpusavio sąjungą, yra pasiryžusios bendrų vertybių pagrindu siekti taikios ateities.
+- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.25/taco_120k_wave_360_420k_Aiste/4.wav" autoplay/>Your browser does not support the audio element\.</audio>
+
 ## Synthesised with Liepa TTS engine
 
 - <audio controls="controls" ><source src="./experiment/liepa_utteerances/0.wav" autoplay/>Your browser does not support the audio element\.</audio>
