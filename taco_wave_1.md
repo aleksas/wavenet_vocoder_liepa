@@ -18,7 +18,13 @@ Fixed problems from [2018.09.17 Tacotron 2 + Wavenet](taco_wave_0.md)
 
 # Latest experiment
 
-taco_wave_2018.09.25/taco_120k_wave_360_420k
+## Taco 100000, Wave 360000 + 420000 (Fine tuned) + stressed
+Stress indicators added to synthesized text.
+### Regina
+
+- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.25/taco_100k_wave_360_420k_Regina_stressed//0.wav" autoplay/>Your browser does not support the audio element\.</audio>
+- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.25/taco_100k_wave_360_420k_Regina_stressed//1.wav" autoplay/>Your browser does not support the audio element\.</audio>
+
 
 ## Taco 120000, Wave 360000 + 420000 (Fine tuned)
 
