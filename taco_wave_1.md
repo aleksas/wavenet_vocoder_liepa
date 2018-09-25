@@ -27,10 +27,10 @@ taco_wave_2018.09.25/taco_120k_wave_360_420k
 - <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.25/taco_120k_wave_360_420k/2.wav" autoplay/>Your browser does not support the audio element\.</audio>
 
 (35:03) EUROPOS SĄJUNGOS PAGRINDINIŲ TEISIŲ CHARTIJA
-- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.25/taco_120k_wave_360_420k/7.wav" autoplay/>Your browser does not support the audio element\.</audio>
+- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.25/taco_120k_wave_360_420k/3.wav" autoplay/>Your browser does not support the audio element\.</audio>
 
 Europos tautos, kurdamos dar glaudesnę tarpusavio sąjungą, yra pasiryžusios bendrų vertybių pagrindu siekti taikios ateities.
-- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.25/taco_120k_wave_360_420k" autoplay/>Your browser does not support the audio element\.</audio>
+- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.25/taco_120k_wave_360_420k/4.wav" autoplay/>Your browser does not support the audio element\.</audio>
 
 ## Synthesised with Liepa TTS engine
 
