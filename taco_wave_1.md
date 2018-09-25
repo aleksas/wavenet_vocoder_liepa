@@ -22,6 +22,8 @@ taco_wave_2018.09.25/taco_120k_wave_360_420k
 
 ## Taco 120000, Wave 360000 + 420000 (Fine tuned)
 
+### Regina
+
 - <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.25/taco_120k_wave_360_420k/0.wav" autoplay/>Your browser does not support the audio element\.</audio>
 - <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.25/taco_120k_wave_360_420k/1.wav" autoplay/>Your browser does not support the audio element\.</audio>
 - <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.25/taco_120k_wave_360_420k/2.wav" autoplay/>Your browser does not support the audio element\.</audio>
@@ -31,6 +33,11 @@ taco_wave_2018.09.25/taco_120k_wave_360_420k
 
 Europos tautos, kurdamos dar glaudesnę tarpusavio sąjungą, yra pasiryžusios bendrų vertybių pagrindu siekti taikios ateities.
 - <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.25/taco_120k_wave_360_420k/4.wav" autoplay/>Your browser does not support the audio element\.</audio>
+
+### Aiste
+
+- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.25/taco_120k_wave_360_420k_Aiste/0.wav" autoplay/>Your browser does not support the audio element\.</audio>
+- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.25/taco_120k_wave_360_420k_Aiste/1.wav" autoplay/>Your browser does not support the audio element\.</audio>
 
 ## Synthesised with Liepa TTS engine
 
