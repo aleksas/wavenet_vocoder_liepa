@@ -18,19 +18,19 @@ Fixed problems from [2018.09.17 Tacotron 2 + Wavenet](taco_wave_0.md)
 
 # Latest experiment
 
-## Taco 120000, Wave 360000 + 200000 (Fine tuned)
+taco_wave_2018.09.25/taco_120k_wave_360_420k
 
-- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.21/taco_120k_wave_360_200k/0.wav" autoplay/>Your browser does not support the audio element\.</audio>
-- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.21/taco_120k_wave_360_200k/1.wav" autoplay/>Your browser does not support the audio element\.</audio>
-- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.21/taco_120k_wave_360_200k/2.wav" autoplay/>Your browser does not support the audio element\.</audio>
+## Taco 120000, Wave 360000 + 420000 (Fine tuned)
 
+- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.25/taco_120k_wave_360_420k/0.wav" autoplay/>Your browser does not support the audio element\.</audio>
+- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.25/taco_120k_wave_360_420k/1.wav" autoplay/>Your browser does not support the audio element\.</audio>
+- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.25/taco_120k_wave_360_420k/2.wav" autoplay/>Your browser does not support the audio element\.</audio>
 
-(37:25) EUROPOS SĄJUNGOS PAGRINDINIŲ TEISIŲ CHARTIJA
-- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.21/taco_120k_wave_360_200k/7.wav" autoplay/>Your browser does not support the audio element\.</audio>
-
+(35:03) EUROPOS SĄJUNGOS PAGRINDINIŲ TEISIŲ CHARTIJA
+- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.25/taco_120k_wave_360_420k/7.wav" autoplay/>Your browser does not support the audio element\.</audio>
 
 Europos tautos, kurdamos dar glaudesnę tarpusavio sąjungą, yra pasiryžusios bendrų vertybių pagrindu siekti taikios ateities.
-- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.21/taco_120k_wave_360_200k/8.wav" autoplay/>Your browser does not support the audio element\.</audio>
+- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.25/taco_120k_wave_360_420k" autoplay/>Your browser does not support the audio element\.</audio>
 
 ## Synthesised with Liepa TTS engine
 
@@ -85,6 +85,11 @@ Europos tautos, kurdamos dar glaudesnę tarpusavio sąjungą, yra pasiryžusios 
 - <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.20/taco_100k_wave_360k/1.wav" autoplay/>Your browser does not support the audio element\.</audio>
 - <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.20/taco_100k_wave_360k/2.wav" autoplay/>Your browser does not support the audio element\.</audio>
 
+## Taco 120000, Wave 360000 + 200000 (Fine tuned)
+
+- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.21/taco_120k_wave_360_200k/0.wav" autoplay/>Your browser does not support the audio element\.</audio>
+- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.21/taco_120k_wave_360_200k/1.wav" autoplay/>Your browser does not support the audio element\.</audio>
+- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.21/taco_120k_wave_360_200k/2.wav" autoplay/>Your browser does not support the audio element\.</audio>
 
 # Voice mix test
 
