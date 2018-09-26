@@ -52,9 +52,9 @@ Stress indicators added to synthesized text.
 #### Text with stress indications
 
 - <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.26/taco_40k_wave_360_420k_Regina_stressed/0.wav" autoplay/>Your browser does not support the audio element\.</audio>
-- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.25/taco_40k_wave_360_420k_Regina_stressed/1.wav" autoplay/>Your browser does not support the audio element\.</audio>
-- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.25/taco_40k_wave_360_420k_Regina_stressed/2.wav" autoplay/>Your browser does not support the audio element\.</audio>
-- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.25/taco_40k_wave_360_420k_Regina_stressed/3.wav" autoplay/>Your browser does not support the audio element\.</audio>
+- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.26/taco_40k_wave_360_420k_Regina_stressed/1.wav" autoplay/>Your browser does not support the audio element\.</audio>
+- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.26/taco_40k_wave_360_420k_Regina_stressed/2.wav" autoplay/>Your browser does not support the audio element\.</audio>
+- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.26/taco_40k_wave_360_420k_Regina_stressed/3.wav" autoplay/>Your browser does not support the audio element\.</audio>
 
 ## Taco 10k, Wave 360k + 420k (Fine tuned) + stressed
 Stress indicators added to synthesized text.
