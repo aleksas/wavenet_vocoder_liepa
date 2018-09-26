@@ -18,14 +18,6 @@ Fixed problems from [2018.09.17 Tacotron 2 + Wavenet](taco_wave_0.md)
 
 # Latest experiment
 
-## Taco 100000, Wave 360000 + 420000 (Fine tuned) + stressed
-Stress indicators added to synthesized text.
-### Regina
-
-- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.25/taco_100k_wave_360_420k_Regina_stressed//0.wav" autoplay/>Your browser does not support the audio element\.</audio>
-- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.25/taco_100k_wave_360_420k_Regina_stressed//1.wav" autoplay/>Your browser does not support the audio element\.</audio>
-
-
 ## Taco 120000, Wave 360000 + 420000 (Fine tuned)
 
 ### Regina
@@ -51,6 +43,26 @@ Europos tautos, kurdamos dar glaudesnę tarpusavio sąjungą, yra pasiryžusios 
 
 (2:27:24) Europos tautos, kurdamos dar glaudesnę tarpusavio sąjungą, yra pasiryžusios bendrų vertybių pagrindu siekti taikios ateities.
 - <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.25/taco_120k_wave_360_420k_Aiste/4.wav" autoplay/>Your browser does not support the audio element\.</audio>
+
+
+## Taco 100000, Wave 360000 + 420000 (Fine tuned) + stressed
+Stress indicators added to synthesized text.
+### Regina
+
+#### Text with no stress indications
+
+- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.25/taco_100k_wave_360_420k_Regina_stressed//0.wav" autoplay/>Your browser does not support the audio element\.</audio>
+- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.25/taco_100k_wave_360_420k_Regina_stressed//1.wav" autoplay/>Your browser does not support the audio element\.</audio>
+
+#### Text with stress indications
+
+- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.25/taco_100k_wave_360_420k_Regina_stressed/0.wav" autoplay/>Your browser does not support the audio element\.</audio>
+- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.25/taco_100k_wave_360_420k_Regina_stressed/1.wav" autoplay/>Your browser does not support the audio element\.</audio>
+
+- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.25/taco_100k_wave_360_420k_Regina_stressed/2.wav" autoplay/>Your browser does not support the audio element\.</audio>
+- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.25/taco_100k_wave_360_420k_Regina_stressed/3.wav" autoplay/>Your browser does not support the audio element\.</audio>
+- (2:03:40) <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.25/taco_100k_wave_360_420k_Regina_stressed/4.wav" autoplay/>Your browser does not support the audio element\.</audio>
+- (4:27:05) <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.25/taco_100k_wave_360_420k_Regina_stressed/5.wav" autoplay/>Your browser does not support the audio element\.</audio>
 
 ## Synthesised with Liepa TTS engine
 
