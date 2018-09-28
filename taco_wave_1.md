@@ -45,6 +45,25 @@ Europos tautos, kurdamos dar glaudesnę tarpusavio sąjungą, yra pasiryžusios 
 - <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.25/taco_120k_wave_360_420k_Aiste/4.wav" autoplay/>Your browser does not support the audio element\.</audio>
 
 
+## Taco 90k, Wave 360k + 420k (Fine tuned) + stressed
+Stress indicators added to synthesized text.
+### Regina
+
+#### Text with stress indications
+
+SVEIKI2, DRAUGA5I4
+- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.28/taco_90k_wave_360_420k_Regina_stressed/0.wav" autoplay/>Your browser does not support the audio element\.</audio>
+A2Š RO2BOTAS IŠ ATEITI5E4S
+- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.28/taco_90k_wave_360_420k_Regina_stressed/1.wav" autoplay/>Your browser does not support the audio element\.</audio>
+A2Š ŽINA5U4 JŪ3SŲ LIKI2MĄ
+- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.28/taco_90k_wave_360_420k_Regina_stressed/2.wav" autoplay/>Your browser does not support the audio element\.</audio>
+EURO2POS SĄ3JUNGOS PAGRINDI2NIŲ TEISIŲ CHA3RTIJA
+- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.28/taco_90k_wave_360_420k_Regina_stressed/3.wav" autoplay/>Your browser does not support the audio element\.</audio>
+EURO2POS TAUT5O4S, KU3RDAMOS DA3R GLAUDE2SNĘ TARPU2SAVIO SĄ3JUNGĄ, YRA2 PASIRY3ŽUSIOS BENDRŲ VERTY3BIŲ P5A4GRINDU SI3EKTI TAIKIOS ATEITI5E4S, 
+- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.28/taco_90k_wave_360_420k_Regina_stressed/4.wav" autoplay/>Your browser does not support the audio element\.</audio>
+ŽMOGA5U4S ORUMU2, LA3ISVE, JI2 GRINDŽIAMA DEMOKR5A4TIJOS IR TE3ISINĖS VALSTY3BĖS PRI2NCIPAIS, ĮKURDAMA2 SĄ3JUNGOS PILIETY3BĘ IR PLĖTO3DAMA LA3ISVĖS, SAUGU2MO IR TEISINGU2MO E5R4DVĘ, SĄ3JUNGA DAUGIA3USIA D5Ė4MESIO SA2VO VEIKLOJE2 SKI2RIA ŽM5O4GUI, 
+- <audio controls="controls" ><source src="./experiment/taco_wave_2018.09.28/taco_90k_wave_360_420k_Regina_stressed/5.wav" autoplay/>Your browser does not support the audio element\.</audio>
+
 ## Taco 45k, Wave 360k + 420k (Fine tuned) + stressed
 Stress indicators added to synthesized text.
 ### Regina
