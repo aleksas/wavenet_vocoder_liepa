@@ -27,8 +27,7 @@ RUN git clone https://github.com/aleksas/tacotron2
 WORKDIR /workspace/tacotron2
 COPY --from=data_provider /liepa_dataset/MII_LIEPA_SYN_V1/$VOICE ./$VOICE
 
-RUN pip install numpy scipy matplotlib librosa==0.6.0 tensorflow tensorboardX inflect==0.2.5 Unidecode==1.0.22 pillow jupyter
-RUN pip install torch
+RUN pip install numpy scipy matplotlib librosa==0.6.0 tensorflow==1.13.1 tensorboardX==1.6 inflect==0.2.5 Unidecode==1.0.22 pillow jupyter
 
 ENV CUDA_HOME=/usr/local/cuda
 
@@ -38,6 +37,8 @@ WORKDIR /apex
 RUN pip install -v --disable-pip-version-check --no-cache-dir --global-option="--cpp_ext" --global-option="--cuda_ext" ./
 
 # ADJUSTMENTS
-RUN pip install numba==0.48
+RUN pip install numba==0.48 tensorboard==1.15
+
+WORKDIR /workspace/tacotron2
 
 #RUN python train.py --output_directory=outdir --log_directory=logdir
